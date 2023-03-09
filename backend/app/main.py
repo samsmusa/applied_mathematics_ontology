@@ -6,9 +6,8 @@ from fastapi.openapi.docs import (
 )
 from fastapi.staticfiles import StaticFiles
 
-
-from app.models import crud, RDB as models, schemas
-from app.core.database import SessionLocal, engine
+from backend.app.models import schemas, crud, RDB as models
+from backend.app.core.database import SessionLocal, engine
 
 models.Base.metadata.create_all(bind=engine)
 
