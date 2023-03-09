@@ -1,0 +1,1544 @@
+
+A.MTH  1101:  Basic Algebra 
+(4 Hours, 100 Marks, 3 Credits) 
+
+1. Inequalities: Order properties of Real Numbers, Average, Mean, Arithmetic Mean, Geometric Mean,Weierstras's 
+Inequality. Cauchy-Schwarz Inequality, Tchebychef's Inequality and Holder's inequality. 
+2. Theory of Equations: Equations and Identities, Basic Ideas of Solutions of Equations with Graphical Representations, 
+Relations between Roots and Co-efficient of the nth Degree Equations, Synthetic division.Descartes’ Rule of Signs, 
+Newton's Method, Reciprocal Equations and Sturm's Theorem, Position of Roots. 
+3. Series: 
+Basic definitions of series, Techniques of summing up series, Test for Convergence and Divergence of Series(Less 
+emphasis ion proofs of Theorems). 
+4. Determinants and Matrices: 
+Elementary properties of Determinants and Matrices, Techniques of Solving linear non-homogeneous and 
+homogeneous Equations, Cramer's Rule, Ranks of Matrices, Echelon Matrices. 
+
+Books Recommended: 
+1. Bernard and Child           : Higher Algebra 
+2. S. Barnad & J.M Child    : Higher Algebra   
+3. P.K Bhattacharjee            : Basic Algebra  
+
+////
+
+A.MTH  1103 : Set Theory  
+(4 Hours, 100 Marks, 3 Credits) 
+
+1. Basic concept of set. Set operations, power set, Van diagram, Universal Set etc. 
+2. Relations and functions: 
+Equivalence  Relations,  Distinction  between  Relations  and Functions  and  Fundamental  Theorem  of  Equivalence  Relations, 
+Partition.  Functions:  Surjective,  Injective,  bijective  functions,  Inverse  function,  one-one  function,  onto  function, 
+Characteristic function, Set function, Restriction function, Extension function real valued function. 
+3. Natural numbers and the axiom of infinity. 
+4. Cardinality: 
+Countability Cardinal Numbers, Cantor's Theorem, Partially Ordered Sets, Well-Ordered Sets and Ordinal Numbers. 
+5. Logic and Language: 
+Arguments  containing  compound  statements,  Method  of  Deduction,  Quantification  theory,  The  logic  of  relation, 
+Prepositional calculus.  
+
+Books Recommended: 
+1. Lipschutz.                                  : Set Theory and Related Topics 
+2. F. Hausdorff.                             : Set Theory                                 
+
+////
+ 
+ 
+A.MTH 1105 : Calculus -  I 
+(4 Hours, 100 Marks, 3 Credits) 
+
+1. Functions: 
+Basic  ideas  of  the  Real  and  Complex  Number  Systems.  Functions  of  a  Single  Variable  and  Its  Domain  and  Ranges, 
+Graphical Representation of Standard Functions (E.g. Polynomials, Trigonometric and Exponential Functions). 
+2. Limit and Continuity: 
+Existence  of  Limits,  Definition  and  Elementary  Properties  of  Continuous  Functions  of  a  Single  Variable,  Statement  and 
+Verifications of Standard Theorems by suitable Examples (No proofs). 
+3. Differentiation: 
+Techniques of Finding Derivatives of functions of a Single Variable, Geometrical Interpretation of Derivatives, Fundamental 
+Theorems (Rolle's Theorem, Mean Value–Theorem, Taylor's Theorem, etc). Successive Differentiations, Leibnitz Theorem, 
+L'Hospitals  Rule  for  Indeterminate  Forms  (No proof  of  Theorem),  Basic  Ideas  of  Functions  of  Two  and  Three  Variables: 
+Partial and Total Derivatives. 
+4. Integration (Indefinite and Definite Integrals): 
+Integrations of Functions of a Single Variable, Integrals as Anti derivatives, Techniques of Integrations of Standard Forms. 
+Integrals as Limits of Sums, Geometrical Meaning of Definite Integrals. 
+5. Definite Integrals:  
+Elementary  Properties  of  Definite  Integrals,  Basic  Ideas  of  Double  and  Triple  Integration.,Gamma  and  Beta  Function. 
+Fundamental Theorems of Calculus Reduction Formula. 
+
+Books  Recommended: 
+1. George B. Thomas                               : Calculus and Analytic Geometry 
+2. Earl W. Swplpwski                              : Calculus and Analytic Geometry 
+3  Marvin J. Forrey                                  : Calculus with Analytic Geometry              
+4. Glyn James                                          : Advanced Engineering Mathematics         
+5. Mohammad, Bhattacharjee and Latif  : A Text Book on Differential Calculus       
+6. Md. Abu Yousuf                                 : Differential Calculus     
+
+////
+
+A.MTH  1107 : Basic Statistics  
+(4 Hours, 100 Marks, 3 Credits) 
+
+Introduction, Definitions, background and scope. Meaning Characteristic feature, uses of Statistics, presentation of statistical 
+data (Graphs, Charts  and Diagrams) Qualitative and Quantitative data.Measure of location (Important averages and their 
+comparative study), Central tendency, Measure of dispersion.Moments of frequency distribution, Skewness and Kurtosis and 
+their measurements. 
+
+Bivariate  universe,  Co-efficient  of  simple  correlation,  Bivariate  frequency  distribution,  Simple  Regression  line  and 
+correlation  Co-efficient,  Rank  correlation,  Comparison  of  regression  analysis  with  correlation  analysis  useful  theorem  in 
+regression  and  correlation  analysis,  Correlation  ratio.  Multiple  regressions,  partial  correlation,  multiple  correlations, 
+Estimation of multiple regression co-efficient, Co-efficient determination.    
+
+Books Recommended: 
+1. Yule, U & Kendal. M.G.                                        : Introduction to the theory of Statistics. 
+2. Weathervurn, C.E.                                                  : A first course in Mathematical Statistics. 
+3. Goodman, E.                                                           : Teach your self-Statistics. 
+4. Kenny, J.F. & Keeping, E.S.                                  : Mathematics of Statistics, Part- 1. 
+5. Mostafa, M.G.                                                        : Methods of Statistics. 
+6. All, M.A.                                                                : Theory of Statistics, Vol.1. 
+7. Mosteller, Rourks & Theorems                              : Probability and its applications to Statistics. 
+8. Mood, A. M.                                                          : Introduction to the theory of Statistics. 
+9. Simpson & Kafa                                                     : Basic Statistics. 
+10. Rabindra Nath Shil & Subash Chandra Debnath : An Introduction To The Theory of Statistics 
+
+////
+
+         A.MTH -1109 : Properties of Matter ,Wave and Sound 
+(4 Hours, 100 Marks, 3 Credits) 
+
+Group A: Properties of Matter 
+Gravitation and Gravity: 
+Law of universal gravitation; Inertial and gravitational masses; Gravitational intensity and potential; Gravitational potential 
+energy;  Gravitational  effects  of  Symmetrical  distribution  of  matter;  Motion  of  planets  and  satellites;  Variation  of 
+acceleration due to gravity. 
+Elasticity: 
+Introduction; stress; strain: Hooks law: Elastic modulli; relations between elastic constants and their determination; Bending 
+of beams: Cantilever. 
+Surface Tension:  
+Surface  energy;  surface  tension  and  molecular  forces,  pressure  within  a  curved  film;  capillarity;  surface  tension  and 
+temperature; measurements of surface tension. 
+
+Group B: Acoustics 
+Wave in elastic media; Plane conpressional waves in a fluid; superposition principle; wave velocity; Power and Intensity in 
+wave motion; Stationary waves; Doppler effects and its applications in Sound and Light. 
+Vibrations:  Strings,  bars  and  air-columns,  Laws  of  Transverse  vibrations:  Sonometer,  Melde's  experiments;  resonance; 
+organ  pipes;  Measurement  of  Velocity  of  Sound:  Resonance  air  column  method;  Kundt's  tube  method;  Acoustical 
+Instruments. 
+
+Books Recommended: 
+1. S. Mathur  
+2. Halliday and Resnick  
+3. P.Chkrabarti and S. Chowdhury         : A Text Book of Sound. 
+4. Giasuddin Ahmed  
+5. Wood A.B.  
+6. Stephenson                                          : Acounstic & Vibrational Physics. 
+
+                : Outlines of Physics. 
+: Text Book of sound. 
+
+: Properties of Matter. 
+
+                : Physics for Sei. & Engineering students. 
+
+////
+
+                                                   CSTE-1101 :   Basic Computer 
+
+(3 Hours, 100 Marks, 2 Credits) 
+
+Introduction: Brief history and types of computers, application areas; Working principle of a computer system, Single and 
+multi-user systems.  
+Organization and  Architecture: Motherboards  & Microprocessor; Memory  units;  Primary  memory,  Secondary  memory; 
+I:O Devices: peripheral devices, AT:XT, ISA, EISA, PCI bus architecture;  
+Computer  network:  Basic  concepts  of  Internet  systems,  LAN  and  WAN;  Gateway,  bridge,  router,  Internet  protocol; 
+Multimedia systems. 
+Maintenance: Power supply stability, grounding effects of surge, sag current and its protection.  
+Classification  of  Stabilizer  and  UPS,  Effect  of  static  charge  on  computer  devices;  Handing  of  computers  cards,  chips, 
+computer viruses and protections, software troubleshooting and maintenance. 
+
+Books Recommended: 
+1. C. S. Frence    : Computer science 
+2. L. Rosch         : Hardware Bible 
+3. Peter Norton   : Inside the PC 
+
+////
+
+FENG- 1101 : Basic English Skills and Commercial Correspondence  
+(4 Hours, 100 Marks, 3 Credits) 
+
+1. Grammar: Tense ; Voice change; subject-verb agreement; conditionals; article; direct and indirect speech; transformation 
+of sentences; use of conjunction; adjective and preposition; use of phrase and clause; basic sentence patterns; sentence 
+correction; causative verbs and problem verbs. 
+2. Comprehension practice 
+3. Writing : Standard paragraph and essay writing. 
+4. Correspondence : CV/ Resume writing; Job applications; business report writing; sales letters; claim and adjustment 
+letters; memoranda; credit and collection letters; quotations and orders; notice, agenda and minutes. 
+
+Books Recommended: 
+1. Billah, Q.M., G.S. Chowdhury and M. Alam : Foundation English for Undergraduates. 
+2. Eastwood, J.                                                    : Oxford Practice Grammar. 
+3. Hornby, A.S.                                                   : Guide to Patterns and Usage in English. 
+4. Wren and Martin.                                            : High School English Grammar and Composition. 
+5. Thompson and Martinet.                                 : Practical English Grammar. 
+6. Murphy, R.                                                      : English Grammar in Use. 
+7. Imhoof and Hudson.                                        : From Paragraph to Essay. 
+8. Mosback, G. and V. Mosback.                        : Practical Faster Reading. 
+9. Ashley, A.                                                        : Oxford Handbook of Commercial Correspondence. 
+10. Sharma , R.C. and K. Mohan.                        : Business Correspondence and Report Writing. 
+
+////
+
+
+A.MTH  1201 : Calculus II 
+(4 Hours, 100 Marks, 3 Credits) 
+
+1. Applications of Differentiation: 
+Extrema (Maxima or Minima) of Subsets of the Real Number System, Real Valued Functions of Single Variable and Its 
+extrema. Narrative extrema Problems and Related Rates Based on Elementary Theory. 
+2. Further Applications of Differentiation: 
+Tangent Line Approximation, Differentials, Tangents, Normals, Curvature and Asymptotes, Point of Inflection, Increasing 
+and Decreasing, Convexity and Concavity of functions, Curve Tracing, Polynomials and Rational Functions. 
+3. Applications of Integration: 
+Reduction formula, Lengths of Curves, Areas of Plane Regions, Areas of Surface of Solids of Revolution and Volumes of 
+Solids of Revolution. Moments and Centroids of Plane regions and solids of Revolution. 
+
+Books Recommended: 
+1. George B. Thomas, Jr                      : Calculus and Analytic Geometry. 
+2. Marvin J. Forray                              : Calculus with Analytic Geometry. 
+3. Mohammad, Bhattacherjee & Latif : Differential and Integral Calculus. 
+
+////
+
+ A.MTH 1203 :   Linear Algebra 
+
+(4 Hours, 100 Marks, 3 Credits) 
+
+1. Concept of Vector Spaces: 
+Basic  ideas  of  Groups  and  Fields  (No  theorem)  (Real  Numbers,  Complex  Number  and  Rational  Numbers).  Definition  of 
+vector spaces, subspaces and basic theorems. 
+2. Basis and Dimension: 
+Linear Combinations of vectors, spanning set, Linear dependence and Independence of vectors, Basis and Dimension of a 
+vector space. Finite Dimensional vector spaces, sums and direct sums of subspaces. 
+3. Linear Transformations: 
+Linear Transformation, The Matrix of a linear Transformation, The Kernel and Image of a linear. Transformation, Rank and 
+Nullity of a linear Transformation, Non-singular linear Transformation, Linear functionals. Dual spaces and dual bases. 
+4. Diagonalization of Matrices:  
+Introduction,  Eigen  values  and  Eigen  vectors,  Diagonalization  of  matrices,  The  minimal  polynomial  of  a  matrix  and  the 
+Cayley-Hamilton theorem, The diagolnalization of symmetric matrices. 
+5. Inner Product spaces, Norms:  
+Inner  products,  Norms,  Orthogonality  and  Gram-Schmidt  Orthogonalisation  Process,  Bilinear  Forms,  Symmetric, 
+Antisymmetric and Quadratic Forms and related theorems. 
+
+Books Recommended: 
+1. A.O. Morris  
+2. C.Dixon  
+3. S.Lang  
+4. R.Stoll  
+5. F.Ayres  
+6. S.N.Goel  
+7. S.Narayan  
+8. N.C. Mazumder  
+9. K.C. Roy and A.G.Das           : Elements of Linear and Abstract Algebra. 
+
+: Linear Algebra 
+: Linear Algebra 
+: Linear Algebra 
+: Linear Algebra and Matrix Theory 
+: Linear Algebra (Schaum's Series) 
+: Linear Algebra 
+: Abstract Algebra 
+: Elementary linear Algebra 
+
+////
+
+ 
+A.MTH  1205 : Vector   Analysis 
+(4 Hours, 100 Marks,3 Credits) 
+
+1. Vector Algebra and Vector Calculus: 
+Vector Algebra, Scalar and Vector Fields, Differentiation of Vector functions. 
+2. Gradient Divergence and curl: Definitions, Geometrical meanings, applications. 
+3. Vector integration: Definition, integration along a line , closed curve , surface and volume. 
+4. Vector integral theorems:  Green’s Gauss and Stokes' Theorems, Applications and verifications. 
+5. Curvilinear Co-ordinates: 
+General Curvilinear Co-ordinates, Orthogonal Curvilinear Co-ordinates, Spherical Polar Co-ordinates, Cylindrical  
+Co-ordinates etc., 
+6. Differential Operators in General Curvilinear Co-ordinates and Orthogonal Curvilinear Co-ordinates; Line,  
+Surface and Volume Elements in Curvilinear Co-ordinates. 
+
+Books Recommended: 
+1. Fred A. Binchey      : Vectors and Tensors for Engineers and Scientists. 
+2. M.R. Spiegel           : Vector Analysis (Sheum's Outline Series). 
+3. Hazra                       : Vector Analysis with Application. 
+4. MD. Raisinghania   : Vector Analysis. 
+
+
+////
+
+A.MTH  1207 : Probability Theory and Distribution Function 
+(4 Hours, 100 Marks, 3 Credits) 
+
+1.  Meaning  of  probability.  Mathematical  and  statistical  definition  of  probability,  Sample  space,  Event  (simple  and 
+compound).  Aditive  &  multiplicative  law  of  probability.  Marginal  and  conditional  probability.  Bayes  Theorem  and  its 
+applications. Additive and simple laws of probability and their applications. Random variable and its probability distribution, 
+probability function, probability density function, Distribution function, Marginal and conditional distribution function, joint 
+probability density function, Marginal probability density function, Conditional probability density function. 
+2. Some Theoretical Distribution: 
+Mathematical expectation, theorem of expectation, Covariance, Variance of a linear combination of variates, 
+Relation between moments and cumulants. Basic probability distribution (Binomial, Possion and Normal etc.) 
+3.Sampling distributions: 
+
+(F, t and 
+its applications 
+
+ : Definition, Uses and Properties). Test Based on F, t and 
+
+and normal Distributions.Contingency Table and 
+
+Books Recommended: 
+1. Yule, U & Kendal. M.G.                                        : Introduction to the theory of Statistics. 
+2. Weathervurn, C.E.                                                  : A first course in Mathematical Statistics. 
+3. Goodman, E.                                                           : Teach your self-Statistics. 
+4. Kenny, J.F. & Keeping, E.S.                                  : Mathematics of Statistics, Part- 1. 
+5. Mostafa, M.G.                                                        : Methods of Statistics. 
+6. All, M.A.                                                                : Theory of Statistics, Vol.1. 
+7. Mosteller, Rourks & Theorems                              : Probability and its applications to Statistics. 
+8. Mood, A. M.                                                          : Introduction to the theory of Statistics. 
+9. Simpson & Kafa                                                     : Basic Statistics. 
+10. Rabindra Nath Shil & Subash Chandra Debnath : An Introduction To The Theory of Statistics 
+11. Manindra Kumar Roy                                          : Fundamentals of Probability & Probability Distributions                                                       
+
+////
+
+A.MTH   1209 : Electricity and Magnetism 
+(4 Hours, 100 Marks, 3 Credits) 
+
+1. Electrostatistics: Electric dipole; electric field due to a dipole: dipole on external electric field; Gauss’s law and its                               
+applications.  
+2. Capacitors: Parallel plate capacitors with dielectrics; dielectrics and Gauss’s law; susceptibility, permittivity and   
+Dielectric constant; energy stored in an electric field.  
+3. Electric Current: Electron theory of conductivity: Conductor, semiconductors and insulators; superconductors:    
+current and current density; Kirchhoffs law and its applications. 
+4. Magnetism: Magnetic dipole; mutual potential energy of two small-magnets: magnetic shell; energy in a magnetic  
+field ; magnetometers. 
+5. Electromagnetic Induction: Faradays experiment; Faraday’s; Ampere’s law, motional e.m.f; self and mutual  
+Inductance; galvanometers- moving cell ballistic and deadbeat types. 
+6. Thermoelectricity: Thermal 9. m. f; Seebeck, Peltier and Thomson Effects; laws of thermal e. m. f .s.  
+Thermoelectric power. 
+7. D.C and A.C circuits: D.C circuits with 1-R, RC, LC and LCR in series; A.C circuits with LR, RC, LC and LCR       
+in series. 
+
+Books Recommended: 
+1. Acharyya                         : Electricity and Magnetism 
+2. Adams and Page              : Principles of Electricity  
+3. Bopadhyys and Ghose     : Padarthavidya (Bengali) 
+4. Constant                           : Theoretical Physics (Electromagnetism) 
+5. Din                                   :  Electricity and Magnetism 
+6. Emran, et al                      : Text book of Magnetism, Electricity and Modern Physics.  
+7. Halliday & Resnick          : Physics (I and II) 
+8. Huz, et al                          :  Concepts of  Electricity and Magnetism 
+9. Islam, et al                        : Tarit Chumbak Tatwa O Adhunik Padartha vijnan (Bengali) 
+10. Kip                                  :  Fundamentals of Electricity and Magnetism 
+
+
+
+////
+
+A.MTH  2101 : Calculus III 
+(4 Hours, 100 Marks, 3 Credits) 
+
+1. Functions of Several Variables: 
+Functions of Two and Three Variables, Real Valued and Vector Valued Functions, Scalar Fields and Vector Fields. Limit 
+and Continuity of Functions of Two and Three Variables. 
+2. Differentiations of Functions of Several variables: 
+Partial  Differentiation,  Total  differentiation,  Geometrical  Meaning  of  Partial  Derivative,  Extrema  of  Functions  of  Several 
+Variables: First Derivative Test, Second Derivative Test and Lagrange's Multiplier Method and Taylor's Theorem. 
+3. Integration of Functions of Several Variables: 
+Line Integrals, Double and Triple Integration, Green's Theorem, Gauss's Divergence Theorem and Stokes' Theorem. 
+4. Improper Integrals: 
+Definition and Classification of  Improper Integrals, Tests for Convergence and Divergence of Improper Integrals, Gamma 
+and Beta Functions. 
+
+Books Recommended: 
+1. Mann and Taylor                                : Advanced Calculus 
+2. Spiegel                                                : Advanced Calculus. 
+3. Thomas                                               : Calculus   
+4. Glyn James                                         : Advaced Engineering Mathematics    
+
+////
+
+
+                                                   A.MTH 2103 : Co-ordinate Geometry of Two Dimensions. 
+
+(4 Hours, 100 Marks, 3 Credits) 
+
+1. Cartesian Coordinates, Polar coordinates, Parameters, Changes of Axes, Standard Equations in Different Coordinates  
+Systems and their Parametric Representations. 
+2. General  Equations of Second Degree: 
+Standard Forms, Reduction of General Equation of Second Degree into Standard Forms. 
+3. Pair of Straight Lines: 
+General Equation of Second Degree representing a Pair of Straight Lines, General Properties of Pair of Straight lines. 
+4. Circles and system of circles. 
+5. Properties of Parabola, Ellipse, Hyperbola and Rectangular Hyperbola. 
+6. Parabola: Properties and standard form. 
+7. Ellipse: Properties and standard form. 
+8. Hyperbola: Properties and standard form. 
+9. Rectangular Hyperbola: properties.   
+
+Books Recommended: 
+1. Rahman and Bhattacherjee  : Coordinate Geometry of Two and Three Dimensions and Vector Analysis. 
+2. Askwith                               : An Elementary Treatise on Coordinate Geometry of Two Dimensions. 
+3. Lony                                    : Geometry. 
+
+
+
+////
+
+A.MTH 2105 : Co-ordinate Geometry of Three Dimensions. 
+(4 Hours, 100 Marks, 3 Credits) 
+
+1. Coordinate Systems in Three Dimensions: Display of Solid Figures, Rectangular Coordinates: Direction 
+Cosines & Direction Ratios, Projections, Angle between two Lines. 
+2. Planes and Straight lines: 
+Planes: Constants in the Equations of Plane, Different Forms of the Equation of a Plane and Conversions, Angle 
+between two planes, Lines: Different Forms of Equations of  Lines and Conversions, Skew Lines, Constants in the 
+Equation of a Line, Angle between a Line and a Plane. A Line in a Plane Through a Line, Coplaner Lines, Shortest 
+Distance. 
+3. Spheres: 
+Equations of Spheres, A Plane and Sphere, A Line and Sphere, Circle in three dimensions. Plane of Contact, Tangent  
+Planes, Polar Planes, Angle of Intersection of Two Spheres, Condition of Orthogonality, Radical Line, Plane  
+and Centres, Coaxial Spheres. 
+4. Cones and Cylinders: 
+Generators, Necessary Condition for a General Eq. of Second Degree to represent a cone, Right Circular Cones, 
+Equations of Cylinders, Circular Cylinders, Enveloping Cylinders and 
+Enveloping Cones. 
+5. The General Equation of Second Degree: Conicoids, Reduction to Standard Forms, Conicoids of 
+Revolution Ellipsoids, Paraboloids & Hyperboloids. 
+
+Books Recommended: 
+1. Rahman and Bhattacherjee  : Coordinate Geometry of Two and Three Dimensions and Vector Analysis. 
+2. R.J.T.Bell                             : An Elementary Treatise on Coordinate Geometry of Three Dimensions. 
+3. Lony                                     : Geometry in Three Dimensions. 
+
+////
+
+
+                                                              A.MTH  2107 : Ordinary Differential Equations 
+
+(4 Hours, 100 Marks, 3 Credits) 
+
+1. Introductory concepts: 
+Definitions of ordinary differential equations(ODE) Construction of ODEs, Geometrical meanings of ODEs and their 
+solutions, classification of ODEs Initial value problems. 
+2. Techniques of Solving ODE’s: 
+First order and 1st degree differential equations, Trajectories, Linear differential equation with constant co-efficients, 
+Homogenous linear differential equations and their applications. Equation of 1st order but not of 1st degree, Singular 
+solutions. 
+3. Further Techniques: 
+Method of variation of parameters, Method of undetermined co-efficients. Reduction of Linear differential equations to a 
+first order system. 
+4. Higher order Linear Differential equations: 
+Initial value problem (IVP), Boundary value problem (BVP). The Wronkians and its Properties. Reduction of order. A 
+formula for the Wronkian. Exact differential equations. 
+
+Books Recommended: 
+1. H.T.H Piaggio 
+2. B. D. Sharma              : Differential equations. 
+3. Frank Ayres  
+4. Ross                            : Differential equations  
+
+        : Differential equations (SOS). 
+
+        : Elementary Treatise of Differential Equations. 
+////
+
+A.MTH 2109 : Statistical Methods & Demography 
+(4 Hours, 100 Marks, 3 Credits) 
+
+1. Economical Statistics: 
+Index number : The concept of a index number, The problems in the construction of index number. Type of 
+indices, (Price, Quantity and Value) simple price index. Simple aggregative-index; weight indices and cost of 
+living indices and their use.Test of index number formulae.  
+Time series: Concept of time series analysis. Components of time-series and their relationship. Measurement of 
+trend by different methods (Method of free hand curve. Method of moving average. Method of least square. 
+Determination of seasonal fluctuation. Simple averages Ratio to moving average methods. Ratio to link relative 
+method. 
+2. Vital Statistics: 
+Sources of demographic data; Population census, Vital registration, surveys, Population composition by age, sec, 
+marital status, Economic activity etc. and their usefulness in demographic analysis. Rates and ratio. Examples of 
+above statistics in relation to Bangladesh population. 
+3. Fertility: 
+Crude and age-sex specific birth rates. Ceniral and total fertility rates. Standarised rates and their relative merits and demerits 
+GRR and NRR. 
+4. Mortality: 
+Crude and age-sex specific death rates. Standarised death rate. Infant mortality rate. Census of deaths. Life table 
+(Complete and abridged) and their uses. 
+5. Educational Statistics & Quality Control: 
+Concept of statistical quality control. The importance of statistical quality control. Schwart control chart 
+technique. Control chart (X proportion and range) and uses. Merits and demerits of control chart. Soeing (T score 
+and Z score) validity, Reliability, I.Q. etc. 
+
+Books Recommended: 
+1. Barclay, J.                   : Techniques of Population Analysis. 
+2. Gulford                       : Statistical methods in Psychology. 
+3. Croxton and Cowden  : Applied General Statistics. 
+4. Ghosh & Chowdhury : Statistics in theory and practice. 
+5. Scarborough               : Numerical Mathematics. 
+6. Garres                         : Statistics in Phychology. 
+7. Simpson & Kapka      : Basic Statistics. 
+8. Mostafa, M.G.            : Methods of Statistics. 
+
+////
+
+
+A.MTH  2111 : Tensor Analysis 
+
+(4 Hours, 100 Marks, 3 Credits) 
+
+1. Linear Transformation: 
+General Linear Transformations, Orthogonal Transformation and Admissible Transformations.  
+2. Tensor Algebra: 
+Riemannian space, Invariant, Contravariant and Covariant Vectors, Tensors of Different Ranks and Types, Symmetric and 
+Skew Symmetric Tensors in Euclidean Space and in Riemannian Space, Addition and Subtraction of Tensors, Outer Product 
+and Inner Product of Tensors, Contraction and Quotient law, Metric Tensor, Index Raising and Lowering. 
+3. Tensor Calculus and Riemannian metric: 
+Christoffel Symbols of First & Second kind, Parallel Displacement, Covariant Differentiation of Tensors, Metric  
+Affinity and the Christoffel symbols in terms of the Metric Tensor, Basic Concepts of Rieman-Christoffel  
+Curvature Tensor, Ricci Tensor, Bianchi identity, Geodesics and Equations of Geodesics. 
+4. Applications of  Tensor analysis to electromagnetic theory and relativity.  
+
+Books Recommended: 
+1. Fred A. Binchey  : Vectors and Tensors for Engineers  and Scientists. 
+2. L.P. Eisenhart      : Riemannian Geometry. 
+3. D.F.Lawden         : An Introduction to Tensor Calculus and  Relativity.  
+
+////
+
+A.MTH-2102: STAT LAB 
+(4 Hours, 100 Marks, 2 Credits) 
+
+1. Graphical Representation of data .  
+2. Measures of Central Tendency . 
+3. Measures of Dispersion.  
+4. Correlation and Regression.  
+5. Different Problems of Probability and Probability distributions. 
+6. Test of Significance. 
+7. Statistical Quality Control. 
+8. Index Number . 
+9. Demography . 
+
+
+////
+
+
+
+             A.MTH  2201 : Trigonometry (Plane and Spherical) 
+(4 Hours, 100 Marks, 3 Credits) 
+
+      Marks: 40                                    
+
+Group A: Plane Trigonometry   
+1. DeMoivre's Theorem and it’s applications: 
+Complex Quantities, DeMoivre's Theorem and its applications, Function of Complex Quantities. Inverse circular  
+function of complex quantities, Exponential Series for Complex quantities. 
+2. Hyperbolic Functions:    
+Circular Functions for Complex Angles, Euler's Exponential Values, Hyperbolic Functions, and Inverse Circular and  
+Hyperbolic Functions. 
+3. Trigonometric Series: 
+Power Series, Logarithmic Series, Gregory's Series, Summation of Series, Expansions in Series. 
+
+Group B: Spherical Trigonometry   
+Introductory Concepts of Spherical Trigonometry (ST): 
+Importance of ST, Geometry of sphere, Axis & Poles. Spherical Triangle, Polar Triangle, Properties of Polar Triangle. 
+Relations between sides and angles of a Spherical triangle: Cosine and Sine formula; Sine of Angles in terms of sides; 
+Relation between two sides, Included angle and another angle; Formulae of half angle and half side; Cosine of sides; 
+Napier's Analogies; D’Alembert’s.Analogies. 
+
+      Marks:30      
+
+Books Recommended: 
+1. S. L. Loney.                            : Trigonometry 
+2. A. Sattar                                  : Higher Trigonometry 
+3. Chowdhury M.G.Zakaria        : Elements of Spherical Trigonometry 
+4. Bhu Dev Sharma                     : Spherical Trigonometry 
+5. B.C.Das and B.N. Mukharjee : Plane Trigonometry 
+
+
+
+////
+
+A.MTH  2203 : Partial Differential Equations 
+(4 Hours, 100 Marks, 3 Credits) 
+
+1. Introductory concepts: 
+Definition of partial differential equations (PDEs), Origin of the  PDEs. Geometrical meaning of PDEs and their solutions. 
+Classification of PDEs. 
+2. Technique of solving PDEs: 
+Methods of solutions of simultaneous differential equations. Integrability conditions and solution of equations. Linear  
+Partial differential equations of order one: Lagrange’s method, Jacobis method. Non-linear PDEs of order one: Charpits  
+method. Linear PDEs of order more than one (Homogeneous and non-homogeneous ) Constant co-efficients. 
+3. Classification of 2nd order PDE. Canonical forms: Hyperbolic equation, Parabolic equations, Elliptic equation Adjoint 
+operators, Rieman’s Method. 
+4. Second order Partial differential equations with variable Co-efficients: Mong’s method,  Reduction to canonical 
+form. 
+5. Solution of different types of (i) Elliptic (ii) Parabolic (iii) Hyperbolic differential equations of more than one  
+dimension. 
+
+Books Recommended: 
+1. D. Sharma 
+2. N. Sharma & Dehar Singh  : Partial Differential Equations  for Engineers and Scientists 
+3. K. Sankara Rao                   : Introduction to Partial Differential Equations. 
+4. Snadon                                : Partial Differential Equations.   
+
+: Differential equations 
+
+////
+
+
+A.MTH  2205 : Heat and Thermodynamics 
+(4 Hours, 100 Marks, 3Credits) 
+
+1. Thermometry: 
+Gas thermometers and their corrections, measurement of low and high temperatures,  Platinum resistance         thermometer; 
+thermocouple. 
+2. Kinetic theory of gases: Kinetic theory of gas, Deduction of Boyle’s, Charle’s and Avogardo’s laws, determination     
+of gas constants, mean force path. 
+3. Equation of states for gases: Equation of state for a perfect gas its experimental study, vander waal’s equation  
+deduction: physical significance of ‘a’ and ‘b’ defects.  
+4. Liquefaction of gases: Different methods of liquefaction of air nitrogen, refrigeration. 
+5. Thermal conduction: Thermal conductivity, Fourier’s equations of heat flow thermal conductivities of good and bad 
+conductors.     
+6. Radiation: Radiation pressure, Kirchhoffs law black body radiation, Stefan Boltzmann’s wein’s law Rayleigh jean’s  
+law, planck’s Quantum law. 
+7. First law of Thermodynamics: Internal energy, work done by expanding fluid, Specific heats of perfect gases, Ratio of 
+Cp to Cv, Isothermal and adiabatic expansions. 
+8. Second law of Thermodynamics and entropy: Reversible and irreversible processes, carnot cycle, efficiency of heat 
+engines, absolute scale of temperature Clausius and claperon’s theorem. Change of entropy in reversible and  
+irreversible processes. Thermodynamics Potentials at constant volume and pressure, maxwell’s thermodynamics  
+relations, specific heat equation, Joule Thomson effect, production of low temperature.   
+
+Books Recommended: 
+1. Bhuiyan & Rahman   : A Text Book of Heat, Thermodynamics & Radiation. 
+2. Halliday & Resnick   : Physics (I and II). 
+3. Saha & Srivastava     : A treatise on Heat. 
+4. Leo and Sears            : Thermodynamics 
+5. Zemansky                  : Heat and hermodynamics 
+6. T. Hossain                 : Text Book of Heat  
+7. Haque                        : Text Book of Heat, Thermodynamics & Radiation 
+
+
+////
+                                                                  (4 Hours, 100 Marks, 3Credits) 
+
+A.MTH  2207 : Discrete Mathematics 
+
+1.  Proposition,  Relations  and  Functions:  Propositions,  A  relational  model  for  data  bank,  Properties  of  binary  relations, 
+Equivalence  relations  and  Partitions,  Partial  ordering  relations  and  lattices,  chains  and  antichains.  Functions  and  the 
+Pigeonhole Principle. 
+2.  Graphs  and  planar  Graphs:  Introduction,  Basic  terminology,  Multigraphs  and  weighted  graphs,  Paths  and  circuits, 
+Shortest Paths in weighted graphs, eulerian Paths and circuits, Hamiltonian Paths and circuits. 
+3.  Trees  and  Cut  Sets:  Trees,  Rooted  trees,  Path lengths  in  rooted  trees,  Binary  search  trees  spanning  trees  and  cutsets, 
+Minimum spanning trees.  
+4.Boolean Algebra:  Lattices and Algebraic systems, Principle of duality, Basic Properties of Algebraic system defined by 
+lattices,  Distributive  and  complemented  lattices,  Boolean  lattices  and  Boolean  algebras,  Boolean  lattices  and  Boolean 
+expressions Propositional calculus, Design and implementation of digital Networks, Switching circuits. 
+
+Books Recommended: 
+1. Prof. Dr. M.F. Rahman                                                              : Discrete Mathematics                       
+2. JERRY BANKS, JOHNS CARSON,II, BARRY L.NELSON : Discrete- Event System Simulation  
+3. Kolman , Busby, Ross                                                                : Discrete Mathematical Structures     
+4. Rosen                                                                                          : Discrete Mathematics                        
+5. Olympia Nicodemi                                                                     : Discrete Mathematics                        
+6. Swapan Kumar Sarkar                                                                : A Textbook of Discrete Mathematics 
+
+////
+
+
+A.MTH  2209 : FORTRAN Programming 
+(4 Hours, 100 Marks, 3Credits) 
+
+Programming in FORTRAN 
+Introduction to FORTRAN, First Steps in Fortran 90 programming, number system (binary, octal, hexadecimal), conversion 
+and algebra, Program structure, FORTRAN language-constants, variables, arithmetic statements, I/O operations, Basic ideas 
+of  Algorithm,  Flow  chart,  control  statements,  looping,  Introduction  to  Arrays,  Using  files  to  preserve  data,  functions  and 
+subroutines. 
+
+Books Recommended: 
+1. Rosen                                                     : Discrete Mathematics 
+2. Olympia Nicodemi                                : Discrete Mathematics 
+3. Swapan Kumar Sarkar                           : A textbook of Discrete Mathematics 
+4. Schaum’s outline series                         : Programming with FORTRAN 
+5. S.Balachandra Rao, C.K. Shantha         : Numerical Methods with Programs in BASIC, FORTRAN and Pascal 
+6. Cooper Redwine                                   : Upgrading to Forfran 90 
+7. Rajaraman, V. 
+
+                                  : Computer programming in Fortran 90 and  95         
+
+
+////
+
+
+                                                                      A.MTH  3101 : Real Analysis 
+
+(4 Hours,100 Marks,3 Credits) 
+
+1. Real number system: Rational number, field, ordered set, ordered field, least upper    bound and greatest lower bound, 
+the least upper bound, property and its applications. 
+2. Basic Topology of the Real Number System: Definitions  of  Distance  Functions,  Metric  Space,  Neighbourhood,  Limit 
+Point,  Closed  Sets,  Interior  Points,  Open  Sets,  Connectedness,  Compactness in  the  Context  of  Real  Number Systems  and 
+Standard Theorems. 
+3. Set Theory: Finite and infinite sets, equivalence of sets, denumerable and countable sets, uncountable sets. 
+4. Metric spaces: Metric spaces, open and closed sets, compact sets. Perfect set. Cantor set. 
+5. Sequence  and  Series:  Convergence sequence,  bounded sequence,  subsequence,  Cauchy  sequence  and  completeness  of 
+R., Convergent series, Cauchy's criteria for convergent series, comparison test, Cauchy's condensation test, Root and Ratio 
+test, Integral test, Raabi's test, Leibnitz's test, Absolutely convergence. 
+6. Limit and Continuity:  Geometrical  Meanings  of  Limit  and  Continuity  of  Real  Valued  Functions  of  a  Single  Real 
+Variable, Uniform Continuity, Intermediate Value Theorem and Global Extrema Theorems. 
+7.Differentiability:Derivatives  of  real  valued  functions  of  a  single  Real  Variable,  Intermediate  Value  Theorem  for 
+Derivatives,  Rolle's  Theorem,  Mean  Value  Theorem  for  Derivatives  and  their  Geometrical  Interpretations.  L'Hospital's 
+Theorem; Maclurin series and Taylor Series with Remainder. (More emphasis on proofs) and Taylor's Polynomials.  
+
+Books Recommended: 
+: Principles of Mathematical Analysis 
+1. Rudin, W. 
+: Modern Mathematical Analysis 
+2. Procter and Morey, C.R. 
+: Real Analysis 
+3. Borle 
+4. Royden 
+: Mathematical Analysis 
+5. T.Apostal                                              : Mathematical Analysis. 
+6. Spiegel                                                  : Real Variables. 
+7. P.N. Chatterjee                                     : Real Analysis. 
+
+////
+
+A. MTH  3103 : Numerical Analysis 
+(4 Hours, 100 Marks, 3 Credits) 
+
+1. The Calculus of Finite Differences: 
+Difference tables, Forward, Backward and General Differences fundamental theorem of difference Calculus. 
+2. Interpolation with equally spaced data: 
+Newton's forward and backward formulas Gauss and Bessel's  interpolation formulas. Interpolation with unequally  
+spaced  data;  Eistence  and  uniqueness  of  the  interplating    polynomials  Lagrangian  interpolation,  and  divided  difference 
+interpolation  formulas.  Error  of  the    interpolating  polynomials.  Lagrangian  interpolation,  and  divided  difference 
+interpolation formulas. Error of the  interpolating polynomials. 
+3. Solution of Non-Linear  Equations:  
+Bisection  method,  interactive  mehods,  secant  and    regulations  methods.  Graphical  method  Fixed  point  interaction, 
+convergence criterion for a fixed point  interaction, Newton-Rophson method.  
+4. System of Linear Equations: 
+Gauss elimination method triangular factorization, Crout method. Iterative methods; Jacobi method, Gauss-Seidel method.  
+5. Numerical Differentiation: 
+Numerical differentiation formulae based on interpolation polynomials, error estimates. 
+6. Numerical Integration: 
+Newton-Cote  formulae:  trapezoidal  rule,  Simpson's    formulae,  Weddle's  rule,  composte  rules.  Romberg  improvement, 
+Richard  extrapolation.  Error  estimation  of      integration  formulae.  Gaussian  integration.Solution  of  Ordinary  Differential 
+Equations:    Picard's  method,  Euler's  method,  Taylor's  Series  method,  Runge-Kutta  method,  Predictor-corrector  methods. 
+Single  step methods, Systems of differential equation.  
+
+Books Recommended: 
+1. F.Schield                                      : Numerical Analysis (Schaum's Outline Series) 
+2. A.R. Vasishgtha & V. Vasishtha : Numerical Analyssis 
+3. S.S.Sastry                                    : Introductory Methods of Numerical Analysis (Prentice-Hall of India, Private Ltd.) 
+4. F.B.Hildebrand                            : Introduction to Numerical Analysis. 
+5. Phillips & Taylor                         : Theory and Applications of Numerical Analysis. 
+
+////
+
+
+A.MTH   3105 : Optimization Techniques - I 
+(4 Hours, 100 Marks, 3 Credits) 
+
+1.  Basic  Concepts:  Introduction,  The  nature,  Meaning,  Scope  and  role  of  operation  Research.  Main  phases  of  operation 
+Research.  Study,  Modeling  in  operation  Research,  General  Methods  for  solving  operation  Research  Models.  Decision 
+making in operation Research.  
+2.  Mathematical  programming:  Concept  and  Basic  elements  of  Linear  Programming  (LP)  Formulation  of  Linear 
+Programming Problems. 
+3. Solution of Liner Programming Problems: (i) Graphical Method (ii) Simplex Method. 
+4. Revised Simplex Method. 
+5. Duality in Linear Programming.  
+6. Sensitivity Analysis, Parametric Analysis. Transportation and Assignment problems. 
+7. Integer Linear programming Dynamic Programming.  
+8.  Decision  Theory:  Decision  under  Risk,  Decision  Trees,  Decision  under  Uncertainty.  Game  Theory:  Basic  Concept  of 
+Game Theory, Two Persons and n-persons Zero-Sum Game. 
+
+Books Recommended: 
+1. Vajda S.  
+2. Charles, A 
+3. Gass, S. I. 
+4. Hudly, G 
+5. Lindly, D. V 
+6. Taha, H.A. 
+7. Berger J. O. 
+
+: Game Theory. 
+: Decision Making under Uncertainty Models 
+: Linear Programming.  
+: Linear Programming. 
+: Making Decision.  
+: Operation Research : An Introduction. 
+: Statistical Decision Theory 
+
+////
+
+A.MTH  3107:  Programming with C/C  
+(4 Hours, 100 Marks, 3 Credits) 
+
+Programming in C and C++: 
+History  of  C,  C  Fundamentals,  Operators  &  Expressions,  Data  Input  &  Output,  Program  control  statements,  Function, 
+Arrays, Pointers, Structures and unions, Data Files. Introduction to C++, Basic structure of C++, Concepts of Object Oriented 
+Programming  (OOP)  (Polymorphism,  Inheritance,  and  Encapsulation  etc),  Objects,  Classes  parameterized  constructors, 
+Functions in C++, Pointers & References, Overloading Operators, String Class, Composition and Inheritance.  
+
+Books Recommended: 
+1. S.K. Bottle                     : Mastering Turbo C. 
+2. H Schidt                         : Advanced Turbo C. 
+3. H Schildt                        : Mastering Turbo C ++ 
+4. H Schildt                        : Teach yourself C ++ 
+5. H.Schildt                        : C Complete reference 
+6. Stephen, G. Kochan       : Programming with C  
+7. Kumar Agrawal             : Programming in ANSIC 
+8. Herbert Schildt               : Turbo C/C++, The complete reference  
+
+////
+
+
+                                                              A.MTH  3109 : Differential Geometry 
+
+                                          (4 Hours, 100 Marks, 3 Credits) 
+
+1. Introductory Concepts of Differential Geometry Vector Algebra and Calculus of Vectors; Functions of Class Cm;   
+Regular and Implicit Representation of Curves in R3; Tangent Plane, Normal Plane and Osculating Plane;  
+Curvature and Torsion. 
+2. Theory of Curves and Surfaces: 
+The Fundamental Existence and Uniqueness Theorems; Involutes and Evolutes, Theory of Contact, Osculating Curves and 
+Surfaces, Coordinate patches, Simple surfaces and Topological Properties of Simple Surfaces. 
+3. Fundamental Forms: 
+First and Second Fundamental Forms: Normal Curvature, Principal Curvature, Gaussian and Mean Curvature; Rodrigues 
+Formula and Conjugate Families of Curves. 
+4. Further Theory of Surfaces: 
+Gauss-Weingarten Equations, Gauss Theorem and the Fundamental Theorem of Surfaces: Elementary Manifolds, 
+Application of Tensors in Surface Theory; Mapping of Surfaces, Intrinsic Geometry, 
+5. Geodesics : Definitions, differential equation of geodesics, canonical geodesic equation, geodesic on a surface    
+of revolution, Clairaut’s theorem, normal property, geodesic curvature, Bonnet’s theorem, Gauss-Bonnet theorem. 
+
+Books Recommended: 
+1 .Ciampin and Pirani        : Applicable Differential Geometry. 
+2. Dirk J. Struik                 : Lectures on Classical Differential Geometry. 
+3. Hicks, N                        : Notes on Differential Geometry. 
+4. M.M.Lipschutz              : Differential Geometry. 
+5  Khanna, M.L.                :  Differential Geometry 
+6. Weathcrbum, C.             : Differential Geometry Dimensions 
+
+
+////
+
+A.MTH  3111 : Mathematics for Business 
+(4 Hours, 100 Marks, 3 Credits) 
+
+1. Set Theory and its applications to business problems. Applications of Matrices and system of linear equations. 
+2. Straight lines and its applications to business Break Even interpretations. 
+3.  Mathematics  of  finance  :  Simple  and  compound  interest.  Present  and  future  value.  Simple  and  compound  discount. 
+Depreciation. Annuity. 
+4.  Supply  and  demand  function.  Application  of  supply  and  demand  functions.  Elasticity  Relation  between  average  and 
+marginal cost. 
+5.  Application  of  differential  calculus:  Maxima  and  Minima  of  a  function  and  its  applications.  Marginal  Propensity  of 
+consume and the multiplier. Applications of partial derivatives. 
+6.  Application  of  integral  calculus:  Interpretive  application  of  area  consumer’s  and  producer’s  surplus.  Applications  of 
+differential equation. Dynamic modeling and difference equations. 
+
+Books Recommended: 
+1. D. Prichet and John. C. Saber                     : Mathematics with applications in Management and Economics  
+2. K. Holden and A.W. Pearson                     : Introductory Mathematics for Economics and Business              
+3. D.C. Sanchetiz V.K. Kapoor                      : Business Mathematics                                                                  
+4. Zambeer uddin, Khanna and Hambri         : Business Mathematics                                                                                                                      
+
+////
+
+
+
+                                                             A.MTH 3201 :Optimization Techniques - II 
+
+(4 Hours, 100 Marks, 3 Credits) 
+
+1. Convex and Concave Functions: 
+Definitions and basic properties; Fundamental theorems for convex function; Maxima and Minima of Convex Function; 
+Generalizations of Convex Function. Properties and relations of generalized convex function. 
+2. The Fritz John and the Kuhan Tucker Optimality Conditions: 
+a. Unconstrained Problems, 
+b. Problem with inequality constraints, 
+c. Problem with equality and inequality constraints, 
+d. Second order Necessary and Sufficient optimality conditions for constrained problems. 
+3. Constraint qualifications: 
+a. The cone on Tangents, 
+b. Various constraint qualifications, 
+c. Problems with inequality and equality constraints. 
+4. Lagrangian Duality and Saddle Point Optimality conditions: 
+a. The Lagrangian Dual Problem, 
+b. Duality theorems and Saddle Point Optimality Conditions, 
+5. Flow and potential in networks: Introduction, Graphs, Definitions and notations, minimum path and Maximum flow 
+problem. 
+
+Books Recommended: 
+1. O.L. Mangasarian,                                             : Nonlinear Programming, McGraw Hill, New York, New York, 1969 
+2. M.S. Bazaraa, H.D.Sherali, and C.M. Shetty, : Nonlinear Programming School Edition, John Wiley and Sons, New York, 
+(1993). 
+3. McCORMICK G.P.                                          : Nonlinear Programming, John Wiley and Sons, New York, 1983. 
+4. K.V. Mital, C. Mohan                                       : Optimization Methods in operations research and system analysis 
+5. Hamdy A.Taha                                                  : Operations Research 
+
+////
+
+A.MTH  3203 : Method of Applied Mathematics 
+(4 Hours, 100 Marks, 3 Credits) 
+
+1.The Laplace Transform : (i) Definition existence and basic properties (ii) Differentiation and integration (iii) Inverse 
+Laplace transform and convolution (iv) Solution of linear differential equations with constant coefficients and linear 
+systems.  
+2. Bessel’s Equations: Solution, Generating function, Recurrence relation, values of Bessel’s function, Orthogonality.  
+3. Legendre's Equation: Solution" Generating function, Recurrence relation, Rodrigue's formula and Orthogonality of 
+Legendre polynomials. 
+4. Hermite's Equation: Solution' Integral and Recurrence formula, Orthogonality, Differential formula. 
+5. Leguerre's Equation: Solution, Integral and Recurrence formula, Differential forms, Orthogonality, 
+6. Hyper geometric Equation : Solution, Hyper geometric function and its properties, Integral formula and transformations 
+of hyper geometric functions. 
+7. Fourier series: Fourier coefficients, sine and cosine series, Dirichlet's theorem, Properties and applications. 
+8. Sturm-Lioville problem: Self adjoint differential equation, Characteristic values and characteristic function. 
+Orthogonality;   Green’s function. 
+9. Fourier transforms: Fourier sine and cosine transforms' Complex Fourier transform, convolution theorem.  
+10. Applications to boundary value problems. 
+
+Books Recommended: 
+1. Jeffreys and Jeffreys 
+2. Courant and Hilbert 
+3. Rajput, B.S. 
+4. Spiegel, M R 
+5. Lighthill, M J 
+
+: Methods of Mathematical Physics 
+: Methods of Mathematical Physics 
+: Mathematical Physics 
+: Laplace Transforms 
+: Asymptotic Expansion 
+
+////
+
+
+A.MTH  3205 : Complex Analysis 
+(4 Hours, 100 Marks, 3 Credits) 
+
+1. Complex Numbers: 
+Definition, Algebraic properties, Geometric interpretations, Property of moduli, Polar form, Exponenetial form, Power and 
+roots, Regions in the Complex plane. 
+2. Functions, Limit, Continuity, and Differentiation: 
+Functions of a complex variable, Mappings, Limits, Theorems on Limits, Continuity, Derivatives, Cauchy-Riemann 
+Equations, Analytic functions and Harmonic functions. 
+3. Complex Series: 
+Convergence and Divergence of sequence and series, Taylor Series and Laurent Series. 
+4. Conformal Representation: 
+Conformal mapping, Simple functions, Homographics transformation Schwarz’s Lemmas, Riemann’s Theorem for a circle, 
+Schwarz’s Principle of symmetry. Conformal representation of a polygon on a half-plane. 
+5. Complex Integration: 
+Definite Integrals of Functions of a Complex Variable expressed as Functions of a single Parameter, Contours, Line 
+Integrals, properties of integrals. Change of variables. Simply and Multiply Connected Domains, Derivatives of Analytic 
+Functions. Cauchy’s integral Theorem, Extension of Cauchy’s Theorem. Jordan curve theorem, Green’s theorem in plane. 
+Complex form of the Green’s theorem.  
+6. Cauchy’s integral Formula and Related Theorems: 
+Cauchy’s integral formulae. Some important theorems. Morera’s theorem. Cauchy’s inequality. (Liouville’s theorem. 
+Fundamental theorem of algebra. Gauss’ mean value theorem. Maximum modulus theorem. Minimum modulus theorem.  
+7. The Calculus of Residues: 
+Residue at pole, Residue at infinity, Calculation of residues, Cauchy’s residues theorem, Computation of residue at a finite 
+pole. Jordan’s lemma, Integration round unit circle. Evaluation of the definite integrals, Special theorems used in evaluating 
+integrals, Cauchy’s principal value of integrals, Quadrant and sector contours, Rectangular contours. 
+8. Singularities: 
+Zeros of a function, Singular point, Different types of singularities, Poles and zeros are isolated, Limiting point of 
+zeros and poles, Some theorems. 
+
+Books Recommended: 
+1. E. T. Copson                           : An Introduction to the theory of functions of complex variable. 
+2. Churchill and Brown              : Complex Variable and Applications. 
+3. Spiegel                                    : Complex Variables (Schaum's Outline Series) 
+4. P. K. Bhattacharjee                 : Complex Variables. 
+5. E.G. Phillips                           : Complex Variables. 
+6. J.K. Goyal and K.P. Gupta     : Functions of a complex variable. 
+7. Glyn James                             : Advanced Engineering Mathematics. 
+
+////
+
+                                                       A.MTH  3207 : Mechanics(Statics and Dynamics) 
+
+(4 Hours, 100 Marks, 3 Credits) 
+
+Statics 
+1. Introduction: Composition and Resolution of Forces actingat One Point Equilibrium of a particle on a smooth Curve. 
+2. Parallel Forces, Moments, Couples. 
+3. Equilibrium of a Rigid Body acted on by Forces in the Plane; Astatic Equilibrium. 
+4. Work: Virtual Work, Principle of Virtual Work for a coplanar system. 
+5.  Centre  of  Gravity  (CG):  CG  of  an  arc,  CG  of  a  Plane  Area,  CG  of  a  Solid  and  Surface  of  Revolutions,  CG  of  any 
+Volume, CG of a Spherical Triangle, Theorems of pappus. 
+6. Stable and Unstable Equilibrium. 
+
+Dynamics 
+1. Fundamental Definitions and Principles. 
+2. Motion in Straight Line: Simple Harmonic Motion (SHM) 
+3. Motion under the Earth's Attraction. 
+Uniplanar Motion where the Accelerations Parallel to Fixed  
+4. Axes are given, Composition of SHMS. 
+5. Uniplanar Motion referred to polar Coordinates: Revolving 
+6. Axes. Central Forces, Apses and Apsidal Distances, 
+Stability of Orbits. 
+
+Books Recommended: 
+1. S.L. Loney              : An Elementary Treatise on the Dynamics of a Particle and of Rigid bodies. 
+2. P.K.Bhattacherjee   : Mechanics – Higher Statics and dynamics. 
+3. A. S. Ramsey          : Dynamics. 
+4. G. S. Malik             : Dynamics. 
+5. P. P. Gupta             : Statics 
+
+////
+
+
+                                                                 A.MTH  3209 : Integral Equations 
+                                                     (4Hours, 100 Marks, 3 Credits) 
+
+1. Introduction, Types of IEs, Differentiation under an integral sign, Relation between differential and integral       
+equations.  
+2. Solution of the VIEs and FIEs of the first and second kinds. 
+3. Fredholm’s First, Second and Third fundamental theorems. Fundamental function, IEs with degenerate kernels,  
+Eigenvalues and eigen functions. 
+4. Symmetric kernel, Orthogonal & Normalised systems, Schmidt’s solution of non-homogeneous IEs, Hilbert  
+Schmidt theorem. 
+5. Construction of green’s function, Influence function, IE & Green’s function for BVPs. 
+6. Singular IEs, Cauchy principal integral, Hilbert kernel & Hilbert formula. Solution of Hilbert type IEs of the  
+first & second kinds. 
+
+Books Recommended: 
+1. Shanti Swarup              : Integral Equations 
+2. M.D. Raishinghania     : Linear Integral Equations 
+3. R.P. Kanwal                 : Linear Integral Equations 
+4. T.G. Tricomi                : Integral Equations 
+5. A.R. Vashishtha           : Integral Equations 
+
+
+////
+
+
+A.MTH 4101 : Quantum Mechanics 
+(4 Hours, 100 Marks, 3 Credits 
+
+1.  Basic  Concept,  Planck's  hypothesis,  Classical  law's,  Planck's  radiation  Iaw,  Black  body      radiation,  Photo-electriciry. 
+Einstein's Photon theory, Compoton effect. 
+2.  Wave  Particle  Dualism  for  light  and  matter.  De  Broghe  Model  of  the  Atom.  De  Broglie      wave,  phase  and  group 
+velocities. Wave packets, Uncertainty principle. 
+3.  Thomson  Model  of  the  Atom,  Rutherford  Atom  model.  Rutherford  scattering  of  a  particles,    Bohr Model  of  the atom. 
+Bohr's  theory  of  the  Hydrogen  Spectrum,  Spectral  Series  of    Hydrogen  Atom,  Energy  level  of  Hydrogen  atom. 
+Correspondence principle. 
+4.  Wave  Mechanical  concepts,  Schrodinger  wave  equation,  lnterpretation  of  wave  function;    Expectation  value  and 
+Ehrenfest's theorem. 
+5. Energy eigenfunctions, One dimensional square well potential, lnterpretative Postulates and  energy eigenfunctions. 
+6.  Momentum  eigenfunctions.  Box  normalization,  Dirac  δ  function;  Motion  of  a  free  wave  packet.  Minimum  uncertainty 
+product and minimum packet.  
+7. Linear harmonic osciliator. 
+8.  Spherically  Symmetric  potential  in  three  dimension,  Angular  momentum  Hydrogen  atom.  Collision  theory:  One 
+Dimension square potential barrier. 
+
+Books Recommended: 
+l. Arther Beiser 
+2. L. I Schiff 
+3. P. T. Mathews 
+4. Powell and Crassmann 
+5. Gupta, Kumar and Sharma 
+6. Donald Rao 
+
+: Concepts of Modern Physics. 
+: Quantum Mechanics. 
+: Introduction of Quantum Mechanics 
+: Quantum Mechanics. 
+: Quantum Mechanics. 
+: Quantum Mechanics. 
+
+////
+
+
+A.MTH 4103 : Classical Mechanics 
+(4 Hours, 100 Marks, 3 Credits 
+
+1. Basic Concepts of Mechanics 
+Mechanics of a particle, Mechanics of a system of particles, constraints 
+2. Variational principles and Lagrange's Equation. 
+Hamilton's  principle,  Some  Techniques  of  the  calculus  of  Variations,  Derivation  of  Lagranges  Equations  from  Hamilton's 
+Principle, Conservation Theorems and Symmetry properties. 
+3. The Two-body Central Force Problem. 
+Reduction to the Equivalent one-body problem, The equations of Motion and First Integrals, Scattering in a Central Force 
+Field. 
+4. The Kinematics of Rigid Body Motion. 
+The  independent  coordinates  of  a rigid  body,  Orthogonal  transformations,  Formal properties  of  the transformation  matrix, 
+Euler's theorem of the motion of a rigid body. The Coriolis force. 
+5. The Rigid Body Equations of Motion. 
+Angular momentum and kinetic energy of motion about a point, Tensors and dyadics, The inertia tensor and the moment of 
+inertia, Methods of solving rigid body problems and the Euler equations of motion. 
+6. Special Relativity in Classical Mechanics. 
+The  basic  program  of  special  relativity,  The  Lorentz  transformations,  Covariant  four  formulations,  The  force  and  energy 
+equations  in  relativistic  mechanics,  The  Lagrangian  formulation  of  relativistics  mechanics,  Covariant  Lagrangian 
+formulations. 
+7. Legendre transformations and the Hamiltion equations of motion, Cyclic coordinates and Routh's procedure, Conservation 
+theorems and the physical significance of the Hamiltonian, Derivation from a variational principle, The principles of Least 
+Action. 
+8. Canonical Transformations. 
+The equations of canonical transformation, Lagrange and Poisson brackets as canonical invariants. The equations of motion 
+in Poisson bracket notation, infinitesimal contact transformations, constants of the motion, and symmetry properties. 
+
+Books Recommended: 
+1. H.Goldstein         : Classical Mechanics (Addison Wosley) 
+2. E.T. Whittaker    : Analytical Dynamics (Dover) 
+3. Synge & Griffith : Principle mechanics (Mc Graw –Hill) 
+4. Backer                 : Theoretical Mechanics. 
+5. Spiegel                : Theoretical Mechanics. 
+
+////
+
+
+A.MTH  4105 : Fluid Mechanics 
+(4 Hours, 100 Marks, 3 Credits) 
+
+Group A: Hydrostatics 
+Pressure of heave fluids, equilibrium of fluids, in given fields of forces, centre of pressure, Equilibrium and  
+Stability of floating bodies. 
+
+Group B: Hydrodynamics 
+1. Some basic properties of the fluid. Velocity and acceleration of fluid particles. Lagrange’s and Euler’s method. Local and 
+particle rates of change . Steady and unsteady flows. Uniform and non-uniform flows.  
+2. Streamline and pathlines and Vortex lines, velocity potential, vorticiry vector, rotational and irrotatronal flows. One, Two 
+and Three Dimensionai flows. Discharge or rate of flow. 
+3. Signification of the equation of continuity. The equation of continuity. Equation of continuity in curvilinear coordinates. 
+Equation  of  continuity  in  spherical  and  polar  coordinates.  Equation  of  continuity  of  an  incompressible  fluid  through  a 
+channel. Boundary surface. 
+4.  Euler’s  equation  of  motion,  conservative  field  of  force;  Lamb’s  hydrodynamical  equations  of  motion;  Bernoulli's 
+equation; Motion under conservativ body force, Vorticity equations, Helmhomrks vorticiry equation. 
+5. Motion in two-dimension; Stream function Physical meaning of Stream function velocity in polar coordinates. Relation 
+between stream function and velocity potential. 
+6. Sources, sinks and doublets, complex potential and complex velocity, stagrration points; complex potential due to a source 
+and a doublet. Uniform stream. Image in two and three dimensions lmage of a sowce and doublet w.r.to circle. Stokes stream 
+function. 
+7.  Flow  Circulation;  Relation  between  circulation  and  vorticity.    Kelvin’s  circulation  theorem,  Permanence  of  irrational 
+motion, Equation of energy; kelvin's minimum energy theorem. 
+8. Circle’s theorem, The Theorem of Blasius, the force exerted on a circular cylinder by a source, Motion of a circular 
+cylinder, pressure at points on a circular cylinder, image system for a source outside circular cylinder. Vortex motion, Vortex 
+tube; strength of a vortex, vortex pair, complex potential due to vortex motion, vortex rows, Free vortex, Forced vortex, 
+spiral vortex, compound vortex. 
+
+Books Recommended: 
+1. L.M. Milne; Thompson : Theoretical Hydrodynamics 
+2. Bansi-lal                        : Theoretical Hydrodynamics. 
+3. J.M.Kar                         : Hydro statics 
+4. M.Roy and Sharma       : Elements of Hydrostatics. 
+5. Raisinghania                 : Fluid Dynamics 
+6. Kundu Pijush K. and  
+Cohen Ira M.  
+7. Massey B. S.  
+8. Chorlton                        : Text Book of Fluid Dynamics. 
+
+          : Fluid Mechanics. 
+          : Mechanics of Fluid. 
+
+////
+
+
+                                              A.MTH  4107 :  Thermodynamics and Statistical Mechanics 
+
+(4 Hours, 100 Marks, 3 Credits) 
+
+l.  Basic  concept:  Thermodynamic  systern,  State  of  a  system,  Thermal  equilibrium  and  concept  of  temperature,  Scope  of 
+thermodynamics, Meaning of partial derivatives, More relations between partial derivatives. Equation of state: Intensive and 
+intensive variables, Equation of state, Equation of state of an ideal gas, Other equation of state. 
+2. The first law of thermodynamics: The first law of thermodynamics. Heat depends on path, Work depend on path, Heat 
+capacity,  Specific heat  capacity,  Difference  in two  specific heats Isothermal and isobaric  process,  Gas  equation during an 
+adiabatic process, Work done during an isothermal process, Work done during an adiabatic process. 
+3.  The  2nd  law  of  thermodynamics:  Reversible  and  irreversible  process,  2nd  law  of  thermo  dynamics.  Efficiencies  of 
+reversible engines, Carrot cycle, Carrot's Engine and Refrigerator, Thermodynamic scale of temperature, Absolute zero on 
+work scale, Work scale and Ideal gas scale, The Clausius-Clapeyron equation, clausius inequality' 
+4.  Entropy,  Mathematical  expression  for  change  of  entropy,  Change  of  entropy  between  two  states,  Entropy  changes  in 
+reversible  and  irreversible  process,  Entropy  of  an  ideal  gas,  Temperature  entropy  diagrams,  The  helmholtz  function  and 
+Gibbs function, Adiabatic and isothermal elasticities.  
+5.  (a)  Maxwell's  equations,  Maxwell's  thermodynamics  relations,  Thermodynamics  functions.  Deductions  from  the 
+thermodynamics  relations,  and  functions.  (b)  Enthalpy:  Enthalpy,  Joule-kelvin  co-efficient,  1st  order  phase  transition, 
+Second-order phase transition. 
+6. Kinetic theory of an ideal gas: Introduction, Basic assumptions, collisions with the walls, Equation of state of an ideal gas, 
+collisions with a moving wall. The clausius equation of state. The Vander waals equation of stale. 
+7.The Distribution of molecular velocities and transport Phenomena : The distribution of molecular velocities, Evaluation of 
+a α and β, the error function, The energy, Classical theory of specific heat capacity, Specific heat capacity of solid, Mean 
+free path, The distribution of free paths, Coefficient of viscosity, Thermal Conductivity, Diffusion. 
+8.The Mazwell-  Boltzman  statistics  :  Introduction  phase  space,  Microstates  and  macrostates,  Thermodynamic  probability, 
+Entropy  and  probability.  Quantum  Statistical  Mechanics:  Difficulties  with  the  Maxwell  Boltzmann  statistics,  The  Bose-
+Einstein statistics, The Maxwell Boltzman statistics, Statistics of a photon gas, The Fermi Dirac statistics, Velocity, Speed 
+and energy distribution functions.  
+
+Books Recommended:  
+: Thermodynamics and Statistical Mechanics 
+1. F. W. Sears 
+2. T. Hossain 
+: Heat and Thermodynamics 
+3. Brijlal                  : Heat and Thermodynamics 
+
+
+////
+
+
+A.MTH  4109 :  Theory of Relativity 
+(4 Hours, 100 Marks, 3 Credits) 
+
+Attempt to locate absolute frame; the speed of light relative to earth. Aberations of star-light. Fresnel's co-efficient of ether-
+drag.  Figeau's  experiment.  Inertial and  non-inertial  frame.  Validity  of  theory  of  relativity.Mechelson-Morleys  experiment; 
+Einsteins definition of simultaneity,the two postulate of Relativity, Larentz'sTransformation, Fitzgerald contaction, Dilation 
+of  time,  Proper  time  interval,  Minkowski's  four  dimensional  world,    transformulation  of  velocity  &  acceleration,  force, 
+variation  of  mass  and  energy,  Four  dimensional  representation  of  velocity,  momentum  etc.Energy  momentum 
+tensors.Electromagnetic  vectors  as  the  component  of  tensor,  electromagnetic  field  tensor,  Maxwell's  equations  for 
+electromagnetic  field,  in  relativistic  form,  in  four  potential  form,  Lorentz  transformation  of  the  components  of 
+electromagnetic  field  tensor,  four  vector  current,  Invariants  of  fields,  Lorentz  force,  Energy  momentum  tensor,  poynting 
+vector and its physical interpretations.Principle of covariance, principle of equivalence; principle of Mech-Einsteins law of 
+gravitational  potentials,  properties  of  metric  tensor.  Derivation  of  Einstein's  equations,  curvature  tensor,  Discussion  of 
+Schwarzschild, spherically symmetric, cylindrically symmetric and Robertson-Walker line                        element,  Lie 
+derivatives and Killing vectors. 
+
+Books Recommended: 
+1. R.C. Tolman                                         : Relativity, Thermodynamics & Cosmology. 
+2. S.Weinberg:Gravitation & Cosmology: General Theory of Relativity. 
+3. H.P.Robertson W.Nauman                   : Relativity Cosmology 
+4. J.L.Synge                                             : The special theory of Relativity. 
+5. C.Mollar                                               : The Theory of Relativity 
+6. G.C.Mc Vittle                                       : General Relativity and Cosmology 
+7. M.Bauli                                                 : Theory of Relativity 
+8. H.H.Dicker                                           :  Relativity, Groups & Topology. 
+9. A.A.Michelson and E.W.Moreley        : Relativity Physics. 
+10. J.L. Anderson                                     :  Principles of Relativity Physics. 
+11. S.Prakash                                            :  Relativistic Mechanics 
+
+////
+
+
+                                                                      A.MTH 4111 :  Bio-Mathematics  
+
+      (4 Hours, 100 Marks, 3 Credits) 
+
+1. Continuous population models for single species: continuous Growth Models and its linear analysis. Periodic solutions. 
+Harvesting a single Natural population. 
+2. Discrete population Model for a single species: Simple Models, Discrete Logistic Model’s. Discrete Delay Models.Fishery 
+Management Models. 
+3. Continuous Models for Interacting populations predator pre Models (Lotka-Volterra systems) complexity and   stability. 
+Competition Models. Mutualism or symbiosis. 
+4. Discrete Growth Models for Interaction populations. Detailed Analysis of predator Prey Models. 
+5. Biological waves (Single Models) Fisher Equation and Propagation wave solutions. Asymptotic solutions and stability of 
+wave not Diffusion Reactions. Diffusion Models and some Exact Equation. 
+6. Biological waves: Multispecies Reaction Diffusion Models. 
+7.  Population  Interaction  Diffusion  Mechanisms.  Linear  stability  Analysis  and  Evolution  of  spatial  pattern.  Dispersion 
+relation, Turning space, Scale and Geometry Effects in pattern Formation in Morphogenetic Models. Pattern Generation with 
+single spicing Models. 
+8. Epidemic Models and the dynamics of intentions Diseases. 
+
+Books Recommended: 
+1. J.D. Murry             :  Mathematical Biology 
+2. J.N. Kapoor            :  Mathematical Biology 
+
+                                               [Four hours practical examination using c and MATLAB] 
+
+
+////
+
+
+         A.MTH 4201 : Mathematical Cosmology 
+
+(4 Hours, 100 Marks, 3 Credits) 
+
+1. Large Scale Structure of the Universe 
+Astronomy and cosmology, Hubble’s Law, the background radiation, relativistic cosmology, structural hierarchy. 
+2. General Relativity 
+Covariant  differentiation,  Riemannian  geometry,  Space-time  curvature,Geodesics,  The  Principle  of  equivalence,  Action 
+principle and the Energy tensor, Gravitational equations. The Schwarzchild solution. 
+3. From relativity to cosmology 
+Historical  background,  The  Einstein  Universe,  The  Expanding  Universe,  Modifying  assumptions  of  cosmology,  The 
+redshifts, The Luminosity of distance, Angular size.  
+4. The Friedmann models 
+The Robertson-walker Metric and the Einstein’s equation. Derivation of the The Robertson-walker Metric. Energy Terms. 
+The solutions of Friedmann equations. Cosmological constant. The space-time Singularity. 
+
+5.  The  Hubble  Constant and  Deceleration  Parameter Measurement  of 
+
+,  Measurement  of 
+
+,  exact solution  for  zero 
+
+pressure, Solution for pure radiation. 
+6. The Steady State Theory 
+Motivation  for  a  Non  big-bang  Cosmology.  The  perfect  Cosmological  Principle,  the  Creation  field,  Observational 
+Parameters of Steady state Theory, Physical and Astrophysical consideration. 
+7. History of the Universe 
+Matter Vs. Radiation Dominant Universe, The Hot Universe, The very Early Universe, Early Universe inflation and Higgs 
+Field.  
+
+Books Recommeded: 
+1. J.N.Islam                      :  An Introduction to Mathematical Cosmology. 
+2. J.V.Narlikar                  :  Introduction to Cosmology. 
+3. Martin Rees                  :  Introduction to Cosmology: Willey , N.Y. 1994. 
+4. S.Weinberg                   :  First Three Minutes. 
+5. A.K.Rayehaudhuri        :  Theoretical Cosmology: The Expanding Universe. 
+6.  P.J.Peebles                   :  Physical Cosmology. 
+7.  Landau & Lifshitz        :  Classical Theory of Fields 
+
+////
+
+A.MTH 4203 :  Mathematical Astronomy 
+(4 Hours, 100 Marks, 3 Credits) 
+
+1. The Celestial Sphere: 
+Introduction,  Terrestrial  Longitude  and  Latitude,  Definitions,  Annual  Motion  of  the  sun,  the  Ecliptic  Motion,  System  of 
+Coordinates, Conversion of Coordinates from one system to another, Rectangular coordinates, Triangles PZX. 
+2. Kepler's Laws: 
+Planets. Kepler's Law, Newton's Law of Gravitation, Definitions, relations in elliptic motion, Lambert's Theorem and Euler's 
+theorem. 
+3. Time: 
+Sidereal time, The sun's apparent orbit, The Mean Sun, The equation of the time, Seasons, Length of the seasons. 
+Planetary  Phenomena:  Conjugations,  Orbit  period  and  Synodic  Periodic,  Relation  between  Synodic  periodic  and  orbital 
+period, Direct and retrograde motion. The Geocentric Motion of a planet, Elongation of a planet when Stationary. 
+3. Aberration: 
+Aberration, Earth's way, Aberration varies as the Sine of the Earth's way, The effect of Aberration on Longitude and Latitude 
+of a star, The Aberrational Eclipse, Effect of Aberration on right Ascension and Declination. 
+4. Eclipses: 
+Eclipses of the Moon, The Angular Radius of the Earth's Shadow at the Moons Distance. Duration of an Eclipse, Length of 
+the Earth's Shadow, Solar Eclipses, The Angle subtended at the Earth's Centre by the Sun and the Moon at the beginning or 
+end of a Solar Eclipse. 
+
+Books Recommended: 
+1. G.S.Malik  : Spherical Astronomy 
+2. J.M.Kar     : Mathematical Astronomy. 
+
+ 
+////
+ 
+ 
+A.MTH  4207:  Bio-Mechanics 
+(4 Hours, 100 Marks, 3 Credits) 
+
+1. Contribution of Bio-mechanics in Health Science : 
+(i) Clinical problems in cardiovascular system (ii) Quantitative physiology (iii) Additional applications. 
+2.(i) Equation of continuity (ii) Equation of motion (iii) Hagen Poiseulee theory of flow through a pipe in the light of  N-S 
+equation. (iv) N-S equations for compressible and incompressible fluid. (v) Reynold’s number and other non- dimensional 
+parameters (vi) General feature folaminar, turbulent and transitional flows. (vii) Steady and unsteady fully developed flows,  
+Pulsatile flow, Flow in an elastic tube, Flow in an convergent and divergent channels and flow in slowly varying channel. 
+3.  Biorheology,  Capillary  filtration  coefficient,  Capillary  hydrostatic  pressure,  Tissue  hydrostatic  pressure, Plasma  colloid 
+osmotic  pressure,  Tissue  colloid  osmotic  pressure.  The  lymphatic  system,  Glomerular  filtration,  Basement  membrance, 
+Peristaltic flow, Lipids. 
+4. Viscosity of fluids and suspensions, Osmotic pressure of Plasma, The blood cells and various properties of the blood.      
+5. The structure of the vessels of the micro-circulation, Blood flow in capillaries, Filtration and re-absorption of water within 
+single capillaries and diffusion across the capillary wall. 
+6.  Pulmonary  circulation,  Dynamics  of  blood  in  large  pulmonary  vessel.  Flow  in  the  alveolar  sheet  and  effect  of  lung 
+capillaries.  
+7. Permeability, Starling’s hypothesis, Darcy’s law. Beavers and Jespeh boundary conditions at a naturally permeable wall. 
+8.  The  extra-cellular  fluid-the  internal  environment,  Etra-cellular  and  Intra-cellular  fluids,  Systememic  circulation  and 
+pulmonary or lung circulation. 
+9. Model of transcapillary fluid exchange 
+(i)  Model  of  oka  and  Murata  (ii)  Model  of  Dinnar  (iii)  Model  of  Apelblat  (iv)  Model  of  Black  and  Gross  (v)  Model  of 
+Mahiuddin, MD. 
+10. Pappen heimer equivalent Pore-theory. 
+
+Books Recommended: 
+1. Caro C.G., Pedley T.J; Schroter R.C; Seed W.A.   : The mechanics of the circulation. 
+2. Fung Y.C.                                                               : Biomechanics (Mechanical properties of living tissues). 
+3. Bergel D.H                                                              : cardiovascular fluid dynamics  
+4. Fung Y.C.; Perone N. & An loker M                     : M Biomechanics : Its foundation and objectives. 
+5. Hamilton W.F.                                                        : Hand book of physiology. 
+6. Taylor M.G                                                             : Haemodynamics. 
+7. Mc Donald D.A                                                      : Blood flow in arteries. 
+8.  Guyton A.C. & Jones C.E.                                    : Cardiovascular Physiology. 
+9. Wolstenholme G.E.W                                            : Circulatory & respiratory mass transport. 
+10. Caro C.G                                                              : Mechanics of the pulmonary circulation. 
+11. Harries P & Heath D                                            :The human pulmonary circulation : Its form and function in health  
+                                                                                     and disease. 
+12. Yuan S.W.                                                            : Foundation of fluid mechanics. 
+13. Schlichting H                                                        : Boundary layer theory. 
+14. Miln Thompson L.M.                                           : Theoretical Hydrodynamics. 
+15. Arthu C, Cuton M.D.                                           : Text books of medical physiology. 
+16. Bhu Dev Sharma & B.K. Sachdeva                     : Elementary hydrodynamics. 
+17. Carslacs H.S & Jaegar J.C                                   : Conduction of Heat in Solids. 
+18.  MAHIUDDIN MD.                                           : Ph.D. Thesis 
+
+
+////
+
+
+       A.MTH  4209:  Mathematical Modeling in finance and Business 
+(4 Hours, 100 Marks, 3 Credits) 
+
+1. Set Theory and its applications to business problems. Applications of Matrices and system of linear equations.  
+2. Straight lines and its applications to business Break Even interpretations.  
+3. Mathematics for data processing  Binary number system. Computations in binary system.  
+4. Simple and compound interest. Present and future value. Simple and compound  discount. Depreciation  Annuity.  
+5. Consumer loans. Other consumer computations. Supply and demand function. Application of supply and demand 
+functions. Elasticity Relation between average and marginal cost 
+6. Marketing Mathematics: Markup and markdown. Merchandise and profit. Trade discounts and cash discounts.  
+7. Mathematics for management: Analysis of statements. Other business computations.   
+8.  Application  of  integral  calculus:  Interpretive  application  of  area  consumer’s  and  producer’s  surplus.  Application  of 
+differential equation. Dynamic modeling and difference equation 
+
+Books Recommended: 
+1. D. Prichet and John. C. Saber. 
+2. K. Holden and A. W. Pearson 
+3. D. C. Sanchetiz. V. K. Kapoor. 
+
+: Mathematics with applications in Management and Economics 
+: Introductory Mathematics for   Economics and Business 
+: Business Mathematics                        
+     
+ 
+ 
+4. L.L. Smail,                                          : Mathematics of Finance. 
+5. P.H. Charles Seebeck,                         : Mathematics of Finance.  
+
+
+////
+
+
+                                                             A.MTH 4211 :  Electromagnetic Theory 
+(4 Hours, 100 Marks, 3 Credits) 
+
+1. Electrostatics: The electrostatic field of force, conductors, condensers and dipole, systems of conductors, electrical 
+images, electrostatic energy.  
+2. Dielectrics: Electro potential and displacement minimum energy of the field, uniqueness theorem, polarization. 
+3. Capacitance and electric energy : Capacitances of a conductors, capacitors in series and parallel, combination of 
+capacitors, electric energy in terms of Q.V. and C. 
+4. Steady electric current: Electromagnetic force or e.m.f, field aspect, network aspect, resistance and conductors, 
+general network theorem and Kirchhoff’s law. 
+5. Magnetism: Fundamental of magnetostatics, magnetic field poles and strength volume vector and vector potential, 
+mutual and self inductance, force on a current, Faraday’s law. 
+6. Steady current in magnetic material : Equations of magnetic field and energy, magnetic dipole, electromagnetic 
+Induction, amperes circuital theorem, Biot Savat law. 
+7. Maxwell’s equations: Derivations, general solutions, and deductions, scalar and vector potentials, electromagnetic  
+potentials, poynting theorem. 
+8. Electromagnetic waves: Plane electromagnetic waves in an isotropic non-conducting media, equation of telegraphy, 
+Fresnel’s relation. 
+
+Books Recommended: 
+1. Coulson                                        : Electricity 
+2. Ferraro, V.C.A.                            : Electromagnetic theory 
+3. Gupta and Sharma                        : Mathematical Theory of Electricity and Magnetism 
+4. Duffin, W.J.                                  : Electricity and Magnetism 
+
+
+////
+
+
+A.MTH 4213: Mathematical Methods for Feedforward Artificial Neural Networks  
+(4 Hours, 100 Marks, 3 Credits) 
+
+1.Fundamentals  of  Biological  and  Artificial  Neuron  Model:  Biological  Neuron  Model,  The  Human  Nervous  System, 
+Definition of a Neuron Types of Neurons  Neurons “Connections” Artificial Neuron Model Single-Input Artificial Neuron 
+Model Activation Functions Multiple-Input Artificial Neuron Model, Examples 
+2.Architecture of Feedforward Artificial Neural Networks: A Single-Layer Feed forward Artificial Neural Network of S 
+Neurons,  Multi-Layer Feedforward Artificial Neural Network1  Multi-Layer  Feed forward Artificial Neural Network of S,  
+Neurons,  Structure  and  Geometric  visualization  for  one  and  two  layered  feed-forward,    The  XOR  Problem  Geometric 
+visualization 
+3.Learning in Feedforward Artificial Neural Networks:  Supervised and unsupervised  learning  Multilayer Perceptrons 
+and Back-Propagation, Learning, Radial-Basis Function Networks 
+4.Implementation of Mathematical Methods: Statement of the Problem, Implementation of     Optimization Methods, 
+Method of Steepest Descent, Newton’s Method, Gauss-Newton Method, Levenberg-Marquardt  Method,  Conjugate 
+Gradient Method, Quasi-Newton  Method 
+
+Books Recommended:  
+1. Hassoun MH       : Fundamentals of Artificial Neural Networks 
+2. Ben Krose            : An Introduction to Neural Network 
+3. Gallant S              : Neural Network learning and Expert Systems 
+4. Terrence L. Fine  : Feed forward Neural Network Methodology 
+
+
+////
+
+
+      A.MTH  4215:  Graph Theory 
+   (4 Hours, 100 Marks, 3 Credits) 
+
+1. Discovery of graph theory : Definition and examples of graphs, multigraphs, digraphs, bigraphs, walks and                 
+connectedness, ,intersection graphs, operation of graphs. 
+2. Blocks: Cut points, bridges, and blocks, block graphs and cut point graphs. 
+3. Trees 
+4. Connectivity and traverability, Eulerian and Hamiltonian graphs. 
+5. Line graphs, special line graphs, total graphs. 
+6. Plane and planar graphs. 
+7. Color ability: The chromatic numbers, the five color theorem, statement of the four color theorem. 
+8. Matrices : The adjacency matrix, the incident matrix, the cycle matrix. 
+
+Books Recommended: 
+1. Frank Harary      : Graph Theory, Narosa Publishing House, New Delhi 
+2. West                   : Graph Theory 
+3. Parthasarathy     : Graph Theory 
+4. Calaude Berge   : Introduction to Graph Theory 
+
+
+////
+
+
+A.MTH  4217 :    Mathematical Modeling in Biology 
+(4 Hours, 100 Marks, 3 Credits) 
+
+1.  Continuous  population  models  for  single  species  :  Simple  models,  Continuous  growth  models,  Malthusian  models, 
+logistic models, delay models harvesting models.  
+2. Continuous Models for Interacting Population: Two species population models, Prey-predator models, Lotka-Volterra 
+models, multi-spaces population models, War models, competition models mutualism.  
+3. Discrete population models : Simple discrete models, logistic discrete models, Stability, discrete delay models, discrete 
+growth models for interacting populations Fishery management models.  
+4.  Epidemic  Models  and  Dynamics  of  Infections  Diseases:  Simple  epidemic  models  and  some  practical  applications 
+(GIV/AIDS model, etc) control of epidemic model.  
+
+Books Recommended:  
+1. J.N. Kapur      : Mathematical model in Biology and medicine.  
+2. H.I. Freedman: Deterministic Mathematical model in Population Ecology.  
+3. J.D. Murray   : Mathematical Biology.  
+
+
+////
+
+
+    A.MTH  4219 :Micro and Macro Economics 
+
+(4 Hours, 100 Marks, 3 Credits) 
+
+Group A: Micro Economics 
+1. Subject matter of Economics: 
+Scope and methodology of positive economics. Central problem of every economic society, and Scarcity and choices. How 
+the  economic  problems  are  solved  under  alternative  economic  systems.  The  price  system,  Micro  vs  macro  economics. 
+Theory and reality. 
+2. Elements of market equilibrium: 
+Demand  function.  Demand  schedules  and  demand  curves.  Changes  in  demand  and  supply  –  market  price,  static  analysis 
+comparative statics, market dynamics, stable and snstable equilibrium. Excess demand and excess supply condition. Role of 
+time elements in market equilibrium. 
+3. Consumer Theory 
+a)Utility Approach: Meaning of utility, Total utility and Marginal utility, Law of diminishing marginal utility  of money, 
+Equilibrium of the consume, Equimarginal principle, Derivation of demand curves, Applications. 
+b)  Indifference  Curve  Approach:  Preference,  Choice  and  indifference,  Indifference  schedules  and  indifference  curves, 
+Equilibrium  of  the  consumer  with  budget  constraint,  Effect  of  changes  in  price.  Income  effect  and  substitution  effect, 
+Inferior goods, Derivation of demand curves, Market demand curves, Applications. 
+4. Producer theory: 
+Production:  Meaning  of  production  function,  production  with  a  single  inputs  variable  proportion and diminishing  returns. 
+Two variable inputs returns to scale. 
+5. Costs: 
+Short run and long run cost functions and the nature of costs production costs, Short run conventional cost curves other types 
+of short run cost curves. 
+
+Group B: Macro Economics 
+1.  The  subject  matter  of  macro economic  its relation  to  micro economics  Methodology  circular  flow  of  income stationary 
+economy growing economy. 
+2. National income measurement- Conceptual problems in the estimation of national product. 
+3.The  Classical  Model:  The  demand  for  a  supply  of  labour  –  equilibrium  level  of  equipment  employment  and  output 
+Savings and invesment in the classical model Say’s law of markets- Classical theory of prices. 
+4. The Keynesian Model:  
+A. Consumption: 
+Aggregate and cross-section consumption functions. 
+B. Investment: 
+The theory of investment-demand price, supply price and the investment the equilibrium level of investment. 
+
+Books Recommended: 
+1. L. Lancaster                                                   : Introduction to Micro Economics 
+2. R. G. Lipsey G. R. Spards and P. O. Steiner : Economics  
+3. D. W. Watson                                                : Price theory and its uses. 
+4. Shapiro, Macro                                              : Economics theory. 
+5. N. N. Stegel                                                   : Aggregate Economics and Policy. 
+6. T. F. Dernburg and D. M. Magdongal          : Macro Economics 
+7. G. Ackley                                                      : Macro- Economic theory. 
+
+
