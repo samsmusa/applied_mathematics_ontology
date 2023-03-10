@@ -2,20 +2,20 @@ version: "3.7"
 
 services:
 # mysql service 
-  mysql:
-    image: mysql:5.7
-    restart: always
-    environment:
-      MYSQL_ROOT_PASSWORD: password
-      MYSQL_DATABASE: future_nations
-      MYSQL_USER: user
-      MYSQL_PASSWORD: password
-    ports:
-      - '3306:3306'
-    expose:
-      - '3306'
-    volumes:
-      - ./data/mysql:/var/lib/mysql
+#  mysql:
+#    image: mysql:5.7
+#    restart: always
+#    environment:
+#      MYSQL_ROOT_PASSWORD: password
+#      MYSQL_DATABASE: future_nations
+#      MYSQL_USER: user
+#      MYSQL_PASSWORD: password
+#    ports:
+#      - '3306:3306'
+#    expose:
+#      - '3306'
+#    volumes:
+#      - ./data/mysql:/var/lib/mysql
 
 # mongo service 
   # mongo:
@@ -54,3 +54,12 @@ services:
       # - NEO4J_dbms_memory_pagecache_size=1G
       # - NEO4J_dbms.memory.heap.initial_size=1G
       # - NEO4J_dbms_memory_heap_max__size=1G
+
+  frontend:
+    image: amontology
+    build: ./frontend/amontology
+    ports:
+      - "3000:3000"
+    volumes:
+      - ./frontend/amontology/public:/app/public
+      - ./frontend/amontology/src:/app/src
