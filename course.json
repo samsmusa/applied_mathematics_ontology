@@ -1,0 +1,1122 @@
+{
+  "Basic Algebra": {
+    "Inequalities": [
+      "Order properties of Real Numbers",
+      "Average",
+      "Mean",
+      "Arithmetic Mean",
+      "Geometric Mean",
+      "Weierstras's Inequality",
+      "Cauchy-Schwarz Inequality",
+      "Tchebychef's Inequality",
+      "Holder's inequality"
+    ],
+    "Theory of Equations": [
+      "Equations and Identities",
+      "Basic Ideas of Solutions of Equations with Graphical Representations",
+      "Relations between Roots and Coefficient of the nth Degree Equations",
+      "Synthetic division",
+      "Descartes’ Rule of Signs",
+      "Newton's Method",
+      "Reciprocal Equations and Sturm's Theorem",
+      "Position of Roots"
+    ],
+    "Series": [
+      "Basic definitions of series",
+      "Techniques of summing up series",
+      "Test for Convergence and Divergence of Series (Less emphasis ion proofs of Theorems)"
+    ],
+    "Determinants and Matrices": [
+      "Elementary properties of Determinants and Matrices",
+      "Techniques of Solving linear non-homogeneous and homogeneous Equations",
+      "Cramer's Rule",
+      "Ranks of Matrices",
+      "Echelon Matrices"
+    ]
+  },
+  "Set Theory": {
+    "Basic concept of set": [
+      "Set operations",
+      "Power set",
+      "Van diagram",
+      "Universal Set etc."
+    ],
+    "Relations and functions": [
+      "Equivalence Relations",
+      "Distinction between Relations and Functions",
+      "Fundamental Theorem of Equivalence Relations",
+      "Partition",
+      "Functions: Surjective, Injective, bijective functions",
+      "Inverse function",
+      "One-one function",
+      "Onto function",
+      "Characteristic function",
+      "Set function",
+      "Restriction function",
+      "Extension function",
+      "Real valued function"
+    ],
+    "Natural numbers and the axiom of infinity": [],
+    "Cardinality": [
+      "Countability Cardinal Numbers",
+      "Cantor's Theorem",
+      "Partially Ordered Sets",
+      "Well-Ordered Sets",
+      "Ordinal Numbers"
+    ],
+    "Logic and Language": [
+      "Arguments containing compound statements",
+      "Method of Deduction",
+      "Quantification theory",
+      "The logic of relation",
+      "Prepositional calculus"
+    ]
+  },
+  "Calculus-i": {
+    "Functions": [
+      "Basic ideas of the Real and Complex Number Systems.",
+      "Functions of a Single Variable and its domain and ranges.",
+      "Graphical representation of standard functions (e.g., polynomials, trigonometric and exponential functions)."
+    ],
+    "Limit and Continuity": [
+      "Existence of limits.",
+      "Definition and elementary properties of continuous functions of a single variable.",
+      "Statement and verifications of standard theorems by suitable examples (no proofs)."
+    ],
+    "Differentiation": [
+      "Techniques of finding derivatives of functions of a single variable.",
+      "Geometrical interpretation of derivatives.",
+      "Fundamental theorems (Rolle's theorem, Mean Value theorem, Taylor's theorem, etc.).",
+      "Successive differentiations, Leibniz's theorem.",
+      "L'Hopital's rule for indeterminate forms (no proof of theorem).",
+      "Basic ideas of functions of two and three variables: partial and total derivatives."
+    ],
+    "Integration (Indefinite and Definite Integrals)": [
+      "Integrations of functions of a single variable.",
+      "Integrals as antiderivatives.",
+      "Techniques of integration of standard forms.",
+      "Integrals as limits of sums.",
+      "Geometrical meaning of definite integrals."
+    ],
+    "Definite Integrals": [
+      "Elementary properties of definite integrals.",
+      "Basic ideas of double and triple integration.",
+      "Gamma and beta function.",
+      "Fundamental theorems of calculus reduction formula."
+    ]
+  },
+
+  "Basic Statistics": {
+    "Introduction to Statistics": [
+      "Definition, background, and scope of Statistics",
+      "Meaning, characteristic features, and uses of Statistics",
+      "Presentation of statistical data (Graphs, Charts, and Diagrams)",
+      "Qualitative and Quantitative data"
+    ],
+    "Measures of Central Tendency and Dispersion": [
+      "Measure of location (Important averages and their comparative study)",
+      "Central tendency",
+      "Measure of dispersion",
+      "Moments of frequency distribution",
+      "Skewness and Kurtosis and their measurements"
+    ],
+    "Bivariate Universe and Correlation": [
+      "Coefficient of simple correlation",
+      "Bivariate frequency distribution",
+      "Simple Regression line and correlation Coefficient",
+      "Rank correlation",
+      "Comparison of regression analysis with correlation analysis",
+      "Useful theorem in regression and correlation analysis",
+      "Correlation ratio"
+    ],
+    "Multiple Regressions and Partial Correlation": [
+      "Multiple regressions",
+      "Partial correlation",
+      "Multiple correlations",
+      "Estimation of multiple regression coefficient",
+      "Coefficient determination"
+    ]
+  },
+  "Properties of Matter, Wave and Sound": {
+    "Gravitation and Gravity": [
+      "Law of universal gravitation",
+      "Inertial and gravitational masses",
+      "Gravitational intensity and potential",
+      "Gravitational potential energy",
+      "Gravitational effects of symmetrical distribution of matter",
+      "Motion of planets and satellites",
+      "Variation of acceleration due to gravity"
+    ],
+    "Elasticity": [
+      "Introduction",
+      "stress",
+      "strain",
+      "Hook's law",
+      "Elastic modulli",
+      "relations between elastic constants and their determination",
+      "Bending of beams: Cantilever"
+    ],
+    "Surface Tension": [
+      "Surface energy",
+      "surface tension and molecular forces",
+      "pressure within a curved film",
+      "capillarity",
+      "surface tension and temperature",
+      "measurements of surface tension"
+    ],
+    "Wave in elastic media": [
+      "Plane compressional waves in a fluid",
+      "superposition principle",
+      "wave velocity",
+      "Power and Intensity in wave motion",
+      "Stationary waves",
+      "Doppler effects and its applications in Sound and Light"
+    ],
+    "Vibrations": [
+      "Strings, bars and air-columns",
+      "Laws of Transverse vibrations",
+      "Sonometer, Melde's experiments",
+      "resonance",
+      "organ pipes",
+      "Measurement of Velocity of Sound: Resonance air column method",
+      "Kundt's tube method",
+      "Acoustical Instruments"
+    ]
+  },
+
+  "Calculus-ii": {
+    "Applications of Differentiation": [
+      "Extrema (Maxima or Minima) of Subsets of the Real Number System",
+      "Real Valued Functions of Single Variable and Its Extrema",
+      "Narrative extrema Problems and Related Rates Based on Elementary Theory"
+    ],
+    "Further Applications of Differentiation": [
+      "Tangent Line Approximation, Differentials, Tangents, Normals, Curvature and Asymptotes",
+      "Point of Inflection, Increasing and Decreasing, Convexity and Concavity of functions",
+      "Curve Tracing, Polynomials and Rational Functions"
+    ],
+    "Applications of Integration": [
+      "Reduction formula",
+      "Lengths of Curves",
+      "Areas of Plane Regions",
+      "Areas of Surface of Solids of Revolution",
+      "Volumes of Solids of Revolution",
+      "Moments and Centroids of Plane regions and solids of Revolution"
+    ]
+  },
+  "Linear Algebra": {
+    "Concept of Vector Spaces": [
+      "Basic concepts of Groups and Fields (Real Numbers, Complex Numbers, and Rational Numbers)",
+      "Definition of vector spaces, subspaces, and basic theorems"
+    ],
+    "Basis and Dimension": [
+      "Linear combinations of vectors",
+      "Spanning sets",
+      "Linear dependence and independence of vectors",
+      "Basis and dimension of a vector space",
+      "Finite dimensional vector spaces",
+      "Sums and direct sums of subspaces"
+    ],
+    "Linear Transformations": [
+      "Linear transformation",
+      "Matrix of a linear transformation",
+      "Kernel and image of a linear transformation",
+      "Rank and nullity of a linear transformation",
+      "Non-singular linear transformation",
+      "Linear functionals",
+      "Dual spaces",
+      "Dual bases"
+    ],
+    "Diagonalization of Matrices": [
+      "Eigenvalues and eigenvectors",
+      "Diagonalization of matrices",
+      "Minimal polynomial of a matrix",
+      "Cayley-Hamilton theorem",
+      "Diagonalization of symmetric matrices"
+    ],
+    "Inner Product Spaces, Norms": [
+      "Inner products",
+      "Norms",
+      "Orthogonality",
+      "Gram-Schmidt orthogonalization process",
+      "Bilinear forms",
+      "Symmetric, antisymmetric, and quadratic forms",
+      "Related theorems"
+    ]
+  },
+  "Vector Analysis": {
+    "Vector Algebra and Vector Calculus": [
+      "Vector Algebra",
+      "Scalar and Vector Fields",
+      "Differentiation of Vector Functions"
+    ],
+    "Gradient Divergence and curl": [
+      "Definitions",
+      "Geometrical meanings",
+      "Applications"
+    ],
+    "Vector integration": [
+      "Definition",
+      "Integration along a line, closed curve, surface and volume"
+    ],
+    "Vector integral theorems": [
+      "Green’s, Gauss and Stokes' Theorems",
+      "Applications and verifications"
+    ],
+    "Curvilinear Co-ordinates": [
+      "General Curvilinear Co-ordinates",
+      "Orthogonal Curvilinear Co-ordinates",
+      "Spherical Polar Co-ordinates",
+      "Cylindrical Co-ordinates"
+    ],
+    "Differential Operators in General Curvilinear Co-ordinates and Orthogonal Curvilinear Co-ordinates": [
+      "Line, Surface and Volume Elements in Curvilinear Co-ordinates"
+    ]
+  },
+  "Probability Theory and Distribution Function": {
+    "Probability Theory": {
+      "Definition and meaning of probability": [
+        "Mathematical and statistical definition of probability.",
+        "Sample space, simple and compound events."
+      ],
+      "Additive and multiplicative law of probability": [
+        "Marginal and conditional probability.",
+        "Bayes' Theorem and its applications."
+      ],
+      "Random variable and its probability distribution": [
+        "Probability function, probability density function, distribution function.",
+        "Marginal and conditional distribution function.",
+        "Joint probability density function.",
+        "Marginal probability density function.",
+        "Conditional probability density function."
+      ],
+      "Some Theoretical Distributions": [
+        "Mathematical expectation.",
+        "Theorem of expectation.",
+        "Covariance.",
+        "Variance of a linear combination of variates.",
+        "Relation between moments and cumulants.",
+        "Basic probability distributions (Binomial, Poisson, and Normal)."
+      ],
+      "Sampling Distributions": [
+        "Definition, uses, and properties.",
+        "F, t, and normal distributions.",
+        "Test based on F, t, and normal distributions.",
+        "Contingency table and its applications."
+      ]
+    }
+  },
+  "Electricity and Magnetism": {
+    "Electrostatics": [
+      "Electric dipole",
+      "Electric field due to a dipole",
+      "Dipole on external electric field",
+      "Gauss's law and its applications"
+    ],
+    "Capacitors": [
+      "Parallel plate capacitors with dielectrics",
+      "Dielectrics and Gauss's law",
+      "Susceptibility, permittivity, and dielectric constant",
+      "Energy stored in an electric field"
+    ],
+    "Electric Current": [
+      "Electron theory of conductivity",
+      "Conductors, semiconductors, and insulators",
+      "Superconductors",
+      "Current and current density",
+      "Kirchhoff's law and its applications"
+    ],
+    "Magnetism": [
+      "Magnetic dipole",
+      "Mutual potential energy of two small magnets",
+      "Magnetic shell",
+      "Energy in a magnetic field",
+      "Magnetometers"
+    ],
+    "Electromagnetic Induction": [
+      "Faraday's experiment",
+      "Faraday's law",
+      "Ampere's law",
+      "Motional EMF",
+      "Self and mutual inductance",
+      "Galvanometers - moving cell ballistic and deadbeat types"
+    ],
+    "Thermoelectricity": [
+      "Thermal EMF",
+      "Seebeck, Peltier, and Thomson Effects",
+      "Laws of thermal EMFs",
+      "Thermoelectric power"
+    ],
+    "DC and AC Circuits": [
+      "DC circuits with 1-R, RC, LC, and LCR in series",
+      "AC circuits with LR, RC, LC, and LCR in series"
+    ]
+  },
+  "Calculus-iii": {
+    "Functions of Several Variables": [
+      "Functions of Two and Three Variables",
+      "Real Valued and Vector Valued Functions",
+      "Scalar Fields and Vector Fields"
+    ],
+    "Limit and Continuity of Functions of Several Variables": [
+      "Partial Differentiation",
+      "Total Differentiation",
+      "Geometrical Meaning of Partial Derivative"
+    ],
+    "Extrema of Functions of Several Variables": [
+      "First Derivative Test",
+      "Second Derivative Test",
+      "Lagrange's Multiplier Method",
+      "Taylor's Theorem"
+    ],
+    "Integration of Functions of Several Variables": [
+      "Line Integrals",
+      "Double and Triple Integration",
+      "Green's Theorem",
+      "Gauss's Divergence Theorem",
+      "Stokes' Theorem"
+    ],
+    "Improper Integrals": [
+      "Definition and Classification of Improper Integrals",
+      "Tests for Convergence and Divergence of Improper Integrals",
+      "Gamma and Beta Functions"
+    ]
+  },
+  "co-ordinate geometry of two dimensions": {
+    "Coordinate Systems": [
+      "Cartesian and Polar Coordinates",
+      "Parameters",
+      "Changes of Axes",
+      "Standard Equations",
+      "Parametric Representations"
+    ],
+    "General Equations of Second Degree": [
+      "Standard Forms",
+      "Reduction of General Equation of Second Degree into Standard Forms"
+    ],
+    "Pair of Straight Lines": [
+      "General Equation of Second Degree representing a Pair of Straight Lines",
+      "General Properties of Pair of Straight lines"
+    ],
+    "Circles and System of Circles": [],
+    "Properties of Conic Sections": [
+      "Parabola",
+      "Ellipse",
+      "Hyperbola",
+      "Rectangular Hyperbola"
+    ]
+  },
+  "co-ordinate geometry of three dimensions": {
+    "Coordinate Systems in Three Dimensions": [
+      "Display of Solid Figures",
+      "Rectangular Coordinates: Direction Cosines & Direction Ratios",
+      "Projections",
+      "Angle between two Lines"
+    ],
+    "Planes and Straight lines": [
+      "Planes: Constants in the Equations of Plane, Different Forms of the Equation of a Plane and Conversions, Angle between two planes",
+      "Lines: Different Forms of Equations of Lines and Conversions, Skew Lines, Constants in the Equation of a Line, Angle between a Line and a Plane",
+      "A Line in a Plane Through a Line",
+      "Coplanar Lines",
+      "Shortest Distance"
+    ],
+    "Spheres": [
+      "Equations of Spheres",
+      "A Plane and Sphere",
+      "A Line and Sphere",
+      "Circle in three dimensions",
+      "Plane of Contact",
+      "Tangent Planes",
+      "Polar Planes",
+      "Angle of Intersection of Two Spheres",
+      "Condition of Orthogonality",
+      "Radical Line",
+      "Plane and Centres",
+      "Coaxial Spheres"
+    ],
+    "Cones and Cylinders": [
+      "Generators",
+      "Necessary Condition for a General Eq. of Second Degree to represent a cone",
+      "Right Circular Cones",
+      "Equations of Cylinders",
+      "Circular Cylinders",
+      "Enveloping Cylinders and Enveloping Cones"
+    ],
+    "The General Equation of Second Degree": [
+      "Conicoids",
+      "Reduction to Standard Forms",
+      "Conicoids of Revolution",
+      "Ellipsoids, Paraboloids & Hyperboloids"
+    ]
+  },
+  "Ordinary Differential Equations": {
+    "Introductory Concepts": [
+      "Definitions of Ordinary Differential Equations (ODE)",
+      "Construction of ODEs",
+      "Geometrical Meanings of ODEs and their Solutions",
+      "Classification of ODEs",
+      "Initial Value Problems"
+    ],
+    "Techniques of Solving ODE's": [
+      "First Order and 1st Degree Differential Equations",
+      "Trajectories",
+      "Linear Differential Equation with Constant Coefficients",
+      "Homogeneous Linear Differential Equations and their Applications",
+      "Equation of 1st Order but not of 1st Degree",
+      "Singular Solutions"
+    ],
+    "Further Techniques": [
+      "Method of Variation of Parameters",
+      "Method of Undetermined Coefficients",
+      "Reduction of Linear Differential Equations to a First Order System"
+    ],
+    "Higher Order Linear Differential Equations": [
+      "Initial Value Problem (IVP)",
+      "Boundary Value Problem (BVP)",
+      "The Wronskians and its Properties",
+      "Reduction of Order",
+      "A Formula for the Wronskian",
+      "Exact Differential Equations"
+    ]
+  },
+  "Statistical Methods & Demography": {
+    "Economical Statistics": [
+      "Index number",
+      "simple price index",
+      "simple aggregative-index",
+      "weight indices",
+      "cost of living indices"
+    ],
+    "Time series": [
+      "concept of time series analysis",
+      "components of time-series and their relationship",
+      "measurement of trend by different methods like method of free-hand curve, method of moving average and method of least square",
+      "determination of seasonal fluctuation",
+      "simple averages ratio to moving average methods",
+      "ratio to link relative"
+    ],
+    "Vital Statistics": [
+      "sex, marital status, economic activity, etc., and their usefulness in demographic analysis",
+      "Sources of demographic data population census, vital registration, surveys and population composition by age",
+      "Rates and ratio",
+      "Examples of above statistics in relation to Bangladesh population"
+    ],
+    "Fertility": [
+      "Crude and age-sex specific birth rates.",
+      "Central and total fertility rates.",
+      "Standardised rates and their relative merits and demerits.",
+      "GRR and NRR."
+    ],
+    "Mortality": [
+      "Crude and age-sex specific death rates.",
+      "Standardised death rate.",
+      "Infant mortality rate.",
+      "Census of deaths.",
+      "Life table (complete and abridged) and their uses."
+    ],
+    "Educational Statistics & Quality Control": [
+      "Concept of statistical quality control.",
+      "The importance of statistical quality control.",
+      "Schwart control chart technique.",
+      "Control chart (X proportion and range) and uses.",
+      "Merits and demerits of control chart.",
+      "Soeing (T score and Z score) validity, reliability, I.Q., etc."
+    ]
+  },
+  "Tensor Analysis": {
+    "Linear Transformation": [
+      "General Linear Transformations",
+      "Orthogonal Transformation and Admissible Transformations"
+    ],
+    "Tensor Algebra": [
+      "Riemannian space",
+      "Invariant, Contravariant and Covariant Vectors",
+      "Tensors of Different Ranks and Types",
+      "Symmetric and Skew Symmetric Tensors in Euclidean Space and in Riemannian Space",
+      "Addition and Subtraction of Tensors",
+      "Outer Product and Inner Product of Tensors",
+      "Contraction and Quotient law",
+      "Metric Tensor",
+      "Index Raising and Lowering."
+    ],
+    "Tensor Calculus and Riemannian metric": [
+      "Christoffel Symbols of First & Second kind",
+      "Parallel Displacement",
+      "Covariant Differentiation of Tensors",
+      "Metric Affinity and the Christoffel symbols in terms of the Metric Tensor",
+      "Basic Concepts of Riemann-Christoffel Curvature Tensor",
+      "Ricci Tensor",
+      "Bianchi identity",
+      "Geodesics and Equations of Geodesics."
+    ],
+    "Applications of Tensor analysis to electromagnetic theory and relativity.": []
+  },
+  "Trigonometry (Plane & Spherical)": {
+    "DeMoivre's Theorem and its applications": [
+      "Complex Quantities",
+      "DeMoivre's Theorem and its applications",
+      "Function of Complex Quantities",
+      "Inverse circular function of complex quantities",
+      "Exponential Series for Complex quantities",
+      "Hyperbolic Functions",
+      "Circular Functions for Complex Angles",
+      "Euler's Exponential Values",
+      "Inverse Circular and Hyperbolic Functions"
+    ],
+    "Trigonometric Series": [
+      "Power Series",
+      "Logarithmic Series",
+      "Gregory's Series",
+      "Summation of Series",
+      "Expansions in Series"
+    ],
+    "Introductory Concepts of Spherical Trigonometry (ST)": [
+      "Importance of ST",
+      "Geometry of sphere",
+      "Axis & Poles",
+      "Spherical Triangle",
+      "Polar Triangle",
+      "Properties of Polar Triangle"
+    ],
+    "Relations between sides and angles of a Spherical triangle": [
+      "Cosine and Sine formula",
+      "Sine of Angles in terms of sides",
+      "Relation between two sides, Included angle and another angle",
+      "Formulae of half angle and half side",
+      "Cosine of sides",
+      "Napier's Analogies",
+      "D'Alembert's Analogies"
+    ]
+  },
+  "Partial Differential Equations": {
+    "Introductory concepts": [
+      "Definition of partial differential equations (PDEs)",
+      "Origin of PDEs",
+      "Geometrical meaning of PDEs and their solutions",
+      "Classification of PDEs"
+    ],
+    "Technique of solving PDEs": [
+      "Methods of solutions of simultaneous differential equations",
+      "Integrability conditions and solution of equations",
+      "Linear Partial differential equations of order one: Lagrange’s method, Jacobis method",
+      "Non-linear PDEs of order one: Charpits method",
+      "Linear PDEs of order more than one (Homogeneous and non-homogeneous) Constant coefficients"
+    ],
+    "Classification of 2nd order PDE. Canonical forms": [
+      "Hyperbolic equation",
+      "Parabolic equations",
+      "Elliptic equation",
+      "Adjoint operators",
+      "Riemann’s Method"
+    ],
+    "Second order Partial differential equations with variable Coefficients": [
+      "Mong’s method",
+      "Reduction to canonical form",
+      "Solution of different types of: Elliptic, Parabolic, Hyperbolic differential equations of more than one dimension"
+    ]
+  },
+  "Heat and Thermodynamics": {
+    "Thermometry": [
+      "Gas thermometers and their corrections",
+      "Measurement of low and high temperatures",
+      "Platinum resistance thermometer",
+      "Thermocouple"
+    ],
+    "Kinetic theory of gases": [
+      "Kinetic theory of gas",
+      "Deduction of Boyle’s, Charle’s and Avogardo’s laws",
+      "Determination of gas constants",
+      "Mean force path"
+    ],
+    "Equation of states for gases": [
+      "Equation of state for a perfect gas and its experimental study",
+      "Vander Waal’s equation deduction and physical significance of ‘a’ and ‘b’ defects"
+    ],
+    "Liquefaction of gases": [
+      "Different methods of liquefaction of air nitrogen",
+      "Refrigeration"
+    ],
+    "Thermal conduction": [
+      "Thermal conductivity",
+      "Fourier’s equations of heat flow",
+      "Thermal conductivities of good and bad conductors"
+    ],
+    "Radiation": [
+      "Radiation pressure",
+      "Kirchhoffs law",
+      "Black body radiation",
+      "Stefan Boltzmann’s, Wein’s, Rayleigh-Jean’s, and Planck’s Quantum law"
+    ],
+    "First law of Thermodynamics": [
+      "Internal energy",
+      "Work done by expanding fluid",
+      "Specific heats of perfect gases",
+      "Ratio of Cp to Cv",
+      "Isothermal and adiabatic expansions"
+    ],
+    "Second law of Thermodynamics and entropy": [
+      "Reversible and irreversible processes",
+      "Carnot cycle",
+      "Efficiency of heat engines",
+      "Absolute scale of temperature",
+      "Clausius and Claperon’s theorem",
+      "Change of entropy in reversible and irreversible processes",
+      "Thermodynamics Potentials at constant volume and pressure",
+      "Maxwell’s thermodynamics relations",
+      "Specific heat equation",
+      "Joule Thomson effect",
+      "Production of low temperature"
+    ]
+  },
+  "Discrete Mathematics": {
+    "Proposition, Relations, and Functions": [
+      "Propositions",
+      "A relational model for data bank",
+      "Properties of binary relations",
+      "Equivalence relations and partitions",
+      "Partial ordering relations and lattices",
+      "Chains and antichains",
+      "Functions and the Pigeonhole Principle"
+    ],
+    "Graphs and Planar Graphs": [
+      "Introduction",
+      "Basic terminology",
+      "Multigraphs and weighted graphs",
+      "Paths and circuits",
+      "Shortest paths in weighted graphs",
+      "Eulerian paths and circuits",
+      "Hamiltonian paths and circuits"
+    ],
+    "Trees and Cut Sets": [
+      "Trees",
+      "Rooted trees",
+      "Path lengths in rooted trees",
+      "Binary search trees",
+      "Spanning trees and cutsets",
+      "Minimum spanning trees"
+    ],
+    "Boolean Algebra": [
+      "Lattices and algebraic systems",
+      "Principle of duality",
+      "Basic properties of algebraic system defined by lattices",
+      "Distributive and complemented lattices",
+      "Boolean lattices and Boolean algebras",
+      "Boolean lattices and Boolean expressions propositional calculus",
+      "Design and implementation of digital networks",
+      "Switching circuits"
+    ]
+  },
+  "FORTRAN Programming": {
+    "Programming in FORTRAN": [
+      "Introduction to FORTRAN",
+      "First steps in Fortran 90 programming",
+      "Number system (binary, octal, hexadecimal), conversion, and algebra",
+      "Program structure",
+      "FORTRAN language: constants, variables, arithmetic statements, I/O operations",
+      "Basic ideas of algorithm, flow chart, control statements, looping",
+      "Introduction to arrays",
+      "Using files to preserve data",
+      "Functions and subroutines"
+    ]
+  },
+  "Real Analysis": {
+    "Real number system": [
+      "Rational number",
+      "Field",
+      "Ordered set",
+      "Ordered field",
+      "Least upper bound",
+      "Greatest lower bound",
+      "Least upper bound property and its applications"
+    ],
+    "Basic Topology of the Real Number System": [
+      "Definitions of Distance Functions",
+      "Metric Space",
+      "Neighbourhood",
+      "Limit Point",
+      "Closed Sets",
+      "Interior Points",
+      "Open Sets",
+      "Connectedness",
+      "Compactness in the Context of Real Number Systems and Standard Theorems"
+    ],
+    "Set Theory": [
+      "Finite and infinite sets",
+      "Equivalence of sets",
+      "Denumerable and countable sets",
+      "Uncountable sets"
+    ],
+    "Metric spaces": [
+      "Metric spaces",
+      "Open and closed sets",
+      "Compact sets",
+      "Perfect set",
+      "Cantor set"
+    ],
+    "Sequence and Series": [
+      "Convergence sequence",
+      "Bounded sequence",
+      "Subsequence",
+      "Cauchy sequence and completeness of R",
+      "Convergent series",
+      "Cauchy's criteria for convergent series",
+      "Comparison test",
+      "Cauchy's condensation test",
+      "Root and Ratio test",
+      "Integral test",
+      "Raabi's test",
+      "Leibnitz's test",
+      "Absolutely convergence"
+    ],
+    "Limit and Continuity": [
+      "Geometrical Meanings of Limit and Continuity of Real Valued Functions of a Single Real Variable",
+      "Uniform Continuity",
+      "Intermediate Value Theorem and Global Extrema Theorems"
+    ],
+    "Differentiability": [
+      "Derivatives of real valued functions of a single Real Variable",
+      "Intermediate Value Theorem for Derivatives",
+      "Rolle's Theorem",
+      "Mean Value Theorem for Derivatives and their Geometrical Interpretations",
+      "L'Hospital's Theorem",
+      "Maclurin series and Taylor Series with Remainder",
+      "More emphasis on proofs and Taylor's Polynomials"
+    ]
+  },
+  "Numerical Analysis": {
+    "The Calculus of Finite Differences": [
+      "Difference tables",
+      "Forward, Backward and General Differences",
+      "Fundamental theorem of difference Calculus"
+    ],
+    "Interpolation with equally spaced data": [
+      "Newton's forward and backward formulas",
+      "Gauss and Bessel's interpolation formulas"
+    ],
+    "Interpolation with unequally spaced data": [
+      "Existence and uniqueness of the interpolating polynomials",
+      "Lagrangian interpolation, and divided difference interpolation formulas",
+      "Error of the interpolating polynomials"
+    ],
+    "Solution of Non-Linear Equations": [
+      "Bisection method",
+      "Interactive methods",
+      "Secant and regulations methods",
+      "Graphical method",
+      "Fixed point interaction",
+      "Convergence criterion for a fixed point interaction",
+      "Newton-Rophson method"
+    ],
+    "System of Linear Equations": [
+      "Gauss elimination method triangular factorization",
+      "Crout method",
+      "Iterative methods; Jacobi method, Gauss-Seidel method"
+    ],
+    "Numerical Differentiation": [
+      "Numerical differentiation formulae based on interpolation polynomials",
+      "Error estimates"
+    ],
+    "Numerical Integration": [
+      "Newton-Cote formulae: trapezoidal rule, Simpson's formulae, Weddle's rule, composite rules",
+      "Romberg improvement",
+      "Richard extrapolation",
+      "Error estimation of integration formulae",
+      "Gaussian integration"
+    ],
+    "Solution of Ordinary Differential Equations": [
+      "Picard's method",
+      "Euler's method",
+      "Taylor's Series method",
+      "Runge-Kutta method",
+      "Predictor-corrector methods",
+      "Single step methods",
+      "Systems of differential equation"
+    ]
+  },
+  "Optimization Techniques-I": {
+    "Introduction to Operation Research": [
+      "Nature, Meaning, Scope, and Role of Operation Research",
+      "Main Phases of Operation Research",
+      "Study and Modeling in Operation Research"
+    ],
+    "General Methods for Solving Operation Research Models": [
+      "Decision Making in Operation Research",
+      "Mathematical Programming"
+    ],
+    "Mathematical Programming": [
+      "Concept and Basic Elements of Linear Programming (LP)",
+      "Formulation of Linear Programming Problems",
+      "Solution of Linear Programming Problems",
+      "Graphical Method",
+      "Simplex Method",
+      "Revised Simplex Method",
+      "Duality in Linear Programming",
+      "Sensitivity Analysis, Parametric Analysis, Transportation and Assignment Problems",
+      "Integer Linear Programming",
+      "Dynamic Programming"
+    ],
+    "Decision Theory": [
+      "Decision under Risk",
+      "Decision Trees",
+      "Decision under Uncertainty",
+      "Game Theory: Basic Concept of Game Theory, Two Persons and n-persons Zero-Sum Game"
+    ]
+  },
+  "Programming with C/C++": {
+    "Programming in C and C++": [
+      "History of C",
+      "C Fundamentals",
+      "Operators and Expressions",
+      "Data Input and Output",
+      "Program Control Statements",
+      "Functions",
+      "Arrays",
+      "Pointers",
+      "Structures and Unions",
+      "Data Files",
+      "Introduction to C++",
+      "Basic Structure of C++",
+      "Concepts of Object-Oriented Programming (OOP) such as Polymorphism, Inheritance, and Encapsulation",
+      "Objects",
+      "Classes Parameterized Constructors",
+      "Functions in C++",
+      "Pointers and References",
+      "Overloading Operators",
+      "String Class",
+      "Composition and Inheritance"
+    ]
+  },
+  "Differential Geometry": {
+    "Introductory Concepts of Differential Geometry": [
+      "Vector Algebra and Calculus of Vectors",
+      "Functions of Class Cm"
+    ],
+    "Curves in R3": [
+      "Regular and Implicit Representation",
+      "Tangent Plane, Normal Plane, and Osculating Plane",
+      "Curvature and Torsion",
+      "Theory of Curves",
+      "Involutes and Evolutes",
+      "Theory of Contact",
+      "Osculating Curves"
+    ],
+    "Surfaces": [
+      "Coordinate patches",
+      "Simple surfaces and Topological Properties",
+      "Fundamental Forms",
+      "First and Second Fundamental Forms",
+      "Normal Curvature, Principal Curvature, Gaussian and Mean Curvature",
+      "Rodrigues Formula and Conjugate Families of Curves",
+      "Further Theory",
+      "Gauss-Weingarten Equations",
+      "Gauss Theorem and the Fundamental Theorem",
+      "Elementary Manifolds",
+      "Application of Tensors",
+      "Mapping"
+    ],
+    "Intrinsic Geometry": [
+      "Geodesics",
+      "Definitions",
+      "Differential equation of geodesics",
+      "Canonical geodesic equation",
+      "Geodesic on a surface of revolution",
+      "Clairaut’s theorem",
+      "Normal property",
+      "Geodesic curvature",
+      "Bonnet’s theorem"
+    ]
+  },
+  "Mathematics for Business": {
+    "Set Theory": ["Applications to business problems"],
+    "Matrices and system of linear equations": ["Applications"],
+    "Straight lines": ["Applications to business"],
+    "Break Even": ["Interpretations"],
+    "Mathematics of finance": [
+      "Simple and compound interest",
+      "Present and future value",
+      "Simple and compound discount",
+      "Depreciation",
+      "Annuity"
+    ],
+    "Supply and demand function": [
+      "Applications",
+      "Elasticity",
+      "Relation between average and marginal cost"
+    ],
+    "Differential calculus": [
+      "Maxima and Minima of a function and its applications",
+      "Marginal Propensity of consume and the multiplier"
+    ],
+    "Partial derivatives": ["Applications"],
+    "Integral calculus": [
+      "Interpretive application of area",
+      "Consumer’s and producer’s surplus"
+    ],
+    "Differential equation": ["Dynamic modeling and difference equations"]
+  },
+  "Optimization Techniques-II": {
+    "Convex and Concave Functions": [
+      "Definitions and basic properties",
+      "Fundamental theorems for convex function",
+      "Maxima and Minima of Convex Function",
+      "Generalizations of Convex Function",
+      "Properties and relations of generalized convex function"
+    ],
+    "The Fritz John and the Kuhan Tucker Optimality Conditions": [
+      "Unconstrained Problems",
+      "Problem with inequality constraints",
+      "Problem with equality and inequality constraints",
+      "Second order Necessary and Sufficient optimality conditions for constrained problems"
+    ],
+    "Constraint qualifications": [
+      "The cone on Tangents",
+      "Various constraint qualifications",
+      "Problems with inequality and equality constraints"
+    ],
+    "Lagrangian Duality and Saddle Point Optimality conditions": [
+      "The Lagrangian Dual Problem",
+      "Duality theorems and Saddle Point Optimality Conditions"
+    ],
+    "Flow and potential in networks": [
+      "Introduction, Graphs, Definitions, and notations",
+      "Minimum path and Maximum flow problem"
+    ]
+  },
+  "Method of Applied Mathematics": {
+    "The Laplace Transform": [
+      "Definition, existence and basic properties",
+      "Differentiation and integration",
+      "Inverse Laplace transform and convolution",
+      "Solution of linear differential equations with constant coefficients and linear systems"
+    ],
+    "Bessel's Equations": [
+      "Solution, generating function, recurrence relation, values of Bessel's function, orthogonality"
+    ],
+    "Legendre's Equation": [
+      "Solution, generating function, recurrence relation, Rodrigue's formula and orthogonality of Legendre polynomials"
+    ],
+    "Hermite's Equation": [
+      "Solution, integral and recurrence formula, orthogonality, differential formula"
+    ],
+    "Leguerre's Equation": [
+      "Solution, integral and recurrence formula, differential forms, orthogonality"
+    ],
+    "Hypergeometric Equation": [
+      "Solution, hypergeometric function and its properties, integral formula and transformations of hypergeometric functions"
+    ],
+    "Fourier series": [
+      "Fourier coefficients, sine and cosine series, Dirichlet's theorem, properties and applications"
+    ],
+    "Sturm-Lioville problem": [
+      "Self-adjoint differential equation, characteristic values and characteristic function, orthogonality, Green's function"
+    ],
+    "Fourier transforms": [
+      "Fourier sine and cosine transforms, complex Fourier transform, convolution theorem"
+    ],
+    "Applications to boundary value problems": []
+  },
+  "Complex Analysis": {
+    "Complex Numbers": [
+      "Definition, Algebraic properties, Geometric interpretations",
+      "Property of moduli, Polar form, Exponential form",
+      "Power and roots, Regions in the Complex plane"
+    ],
+    "Functions, Limit, Continuity, and Differentiation": [
+      "Functions of a complex variable, Mappings",
+      "Limits, Theorems on Limits, Continuity",
+      "Derivatives, Cauchy-Riemann Equations",
+      "Analytic functions and Harmonic functions"
+    ],
+    "Complex Series": [
+      "Convergence and Divergence of sequence and series",
+      "Taylor Series and Laurent Series"
+    ],
+    "Conformal Representation": [
+      "Conformal mapping, Simple functions",
+      "Homographic transformation, Schwarz’s Lemmas",
+      "Riemann’s Theorem for a circle, Schwarz’s Principle of symmetry",
+      "Conformal representation of a polygon on a half-plane"
+    ],
+    "Complex Integration": [
+      "Definite Integrals of Functions of a Complex Variable expressed as Functions of a single Parameter",
+      "Contours, Line Integrals, properties of integrals",
+      "Change of variables",
+      "Simply and Multiply Connected Domains",
+      "Derivatives of Analytic Functions",
+      "Cauchy’s integral Theorem, Extension of Cauchy’s Theorem",
+      "Jordan curve theorem, Green’s theorem in plane",
+      "Complex form of the Green’s theorem"
+    ],
+    "Cauchy’s integral Formula and Related Theorems": [
+      "Cauchy’s integral formulae",
+      "Some important theorems",
+      "Morera’s theorem",
+      "Cauchy’s inequality",
+      "Liouville’s theorem",
+      "Fundamental theorem of algebra",
+      "Gauss’ mean value theorem",
+      "Maximum modulus theorem",
+      "Minimum modulus theorem"
+    ],
+    "The Calculus of Residues": [
+      "Residue at pole, Residue at infinity",
+      "Calculation of residues, Cauchy’s residues theorem",
+      "Computation of residue at a finite pole",
+      "Jordan’s lemma, Integration round unit circle",
+      "Evaluation of the definite integrals, Special theorems used in evaluating integrals",
+      "Cauchy’s principal value of integrals, Quadrant and sector contours, Rectangular contours"
+    ],
+    "Singularities": [
+      "Zeros of a function, Singular point",
+      "Different types of singularities",
+      "Poles and zeros are isolated",
+      "Limiting point of zeros and poles",
+      "Some theorems"
+    ]
+  },
+  "Mechanics(Statics and Dynamics)": {
+    "Statics": [
+      "Introduction",
+      "Composition and Resolution of Forces acting at One Point Equilibrium of a particle on a smooth Curve",
+      "Parallel Forces, Moments, Couples",
+      "Equilibrium of a Rigid Body acted on by Forces in the Plane; Astatic Equilibrium",
+      "Work: Virtual Work, Principle of Virtual Work for a coplanar system",
+      "Centre of Gravity (CG): CG of an arc, CG of a Plane Area, CG of a Solid and Surface of Revolutions, CG of any Volume, CG of a Spherical Triangle, Theorems of Pappus",
+      "Stable and Unstable Equilibrium"
+    ],
+    "Dynamics": [
+      "Fundamental Definitions and Principles",
+      "Motion in Straight Line: Simple Harmonic Motion (SHM)",
+      "Motion under the Earth's Attraction",
+      "Uniplanar Motion where the Accelerations Parallel to Fixed Axes are given, Composition of SHMS",
+      "Uniplanar Motion referred to polar Coordinates: Revolving Axes",
+      "Central Forces, Apses and Apsidal Distances, Stability of Orbits"
+    ]
+  },
+  "Integral Equations": {
+    "Integral Equations": [
+      "Types of integral equations",
+      "Differentiation under an integral sign",
+      "Relation between differential and integral equations"
+    ],
+    "Solution of the VIEs and FIEs of the first and second kinds": [],
+    "Fredholm’s First, Second and Third fundamental theorems": [
+      "Fundamental function",
+      "IEs with degenerate kernels",
+      "Eigenvalues and eigenfunctions"
+    ],
+    "Symmetric kernel, Orthogonal & Normalised systems": [
+      "Schmidt’s solution of non-homogeneous IEs",
+      "Hilbert-Schmidt theorem"
+    ],
+    "Construction of Green’s function": [
+      "Influence function",
+      "IE & Green’s function for BVPs"
+    ],
+    "Singular IEs": [
+      "Cauchy principal integral",
+      "Hilbert kernel & Hilbert formula",
+      "Solution of Hilbert type IEs of the first & second kinds"
+    ]
+  }
+}

@@ -1,14 +1,7 @@
-// import '@/styles/globals.css'
-// import type { AppProps } from 'next/app'
-
-// export default function App({ Component, pageProps }: AppProps) {
-//   return <Component {...pageProps} />
-// }
-
 import React, { FC } from "react";
 import Head from "next/head";
 import type { AppProps } from "next/app";
-import { CssBaseline } from "@mui/material";
+import { Box, CircularProgress, CssBaseline } from "@mui/material";
 import { EmotionCache } from "@emotion/cache";
 import { CacheProvider } from "@emotion/react";
 import { createEmotionCache } from "@/utils";
@@ -18,7 +11,7 @@ import "@/styles/globals.css";
 import "@/styles/react-slick.css";
 import { NextPageWithLayout } from "@/interfaces/layout";
 import { useRouter } from "next/router";
-// import 'slick-carousel/slick/slick-theme.css'
+
 const clientSideEmotionCache = createEmotionCache();
 
 type AppPropsWithLayout = AppProps & {
@@ -39,11 +32,17 @@ function App(props: AppPropsWithLayout) {
   }, [router.isReady]);
 
   return (
-    // <CacheProvider value={emotionCache}>
-    <React.Fragment>
-      {" "}
+    <CacheProvider value={emotionCache}>
       {loading ? (
-        <div>Loading...</div>
+        <Box
+          sx={{
+            display: "flex",
+            justifyContent: "center",
+            alignItems: "center",
+          }}
+        >
+          <CircularProgress />
+        </Box>
       ) : (
         <>
           <Head>
@@ -59,8 +58,7 @@ function App(props: AppPropsWithLayout) {
           </MUIProvider>
         </>
       )}
-    </React.Fragment>
-    // </CacheProvider>
+    </CacheProvider>
   );
 }
 

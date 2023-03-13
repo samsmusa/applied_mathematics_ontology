@@ -1,21 +1,21 @@
 version: "3.7"
 
 services:
-# mysql service 
-#  mysql:
-#    image: mysql:5.7
-#    restart: always
-#    environment:
-#      MYSQL_ROOT_PASSWORD: password
-#      MYSQL_DATABASE: future_nations
-#      MYSQL_USER: user
-#      MYSQL_PASSWORD: password
-#    ports:
-#      - '3306:3306'
-#    expose:
-#      - '3306'
-#    volumes:
-#      - ./data/mysql:/var/lib/mysql
+# mysql service
+  mysql:
+    image: mysql:5.7
+    restart: always
+    environment:
+      MYSQL_ROOT_PASSWORD: password
+      MYSQL_DATABASE: amath
+      MYSQL_USER: user
+      MYSQL_PASSWORD: password
+    ports:
+      - '3306:3306'
+    expose:
+      - '3306'
+    volumes:
+      - ./data/mysql:/var/lib/mysql
 
 # mongo service 
   # mongo:

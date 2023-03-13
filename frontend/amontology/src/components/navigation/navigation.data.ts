@@ -1,20 +1,24 @@
-import type { Navigation } from '@/interfaces/navigation'
+import type { Navigation } from "@/interfaces/navigation";
 
 export const navigations: Navigation[] = [
   {
-    label: 'Home',
-    path: '#', // '/',
+    label: "Home",
+    path: "#", // '/',
   },
   {
-    label: 'Courses',
-    path: 'popular-course', // '/popular-course',
+    label: "Courses",
+    path: "popular-course", // '/popular-course',
   },
   {
-    label: 'Testimonial',
-    path: 'testimonial', // '/testimonial',
+    label: "Testimonial",
+    path: "testimonial", // '/testimonial',
   },
   {
-    label: 'Mentor',
-    path: 'mentors', // '/mentors',
+    label: "Mentor",
+    path: "mentors", // '/mentors',
   },
-]
+  {
+    label: "Ontology",
+    path: "/ontology", // '/mentors',
+  },
+];

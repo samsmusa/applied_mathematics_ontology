@@ -530,7 +530,7 @@ A.MTH-2102: STAT LAB
 
 
 
-             A.MTH  2201 : Trigonometry (Plane and Spherical) 
+A.MTH  2201 : Trigonometry (Plane and Spherical)
 (4 Hours, 100 Marks, 3 Credits) 
 
       Marks: 40                                    
@@ -626,10 +626,10 @@ Books Recommended:
 
 
 ////
-                                                                  (4 Hours, 100 Marks, 3Credits) 
+
 
 A.MTH  2207 : Discrete Mathematics 
-
+(4 Hours, 100 Marks, 3Credits)
 1.  Proposition,  Relations  and  Functions:  Propositions,  A  relational  model  for  data  bank,  Properties  of  binary  relations, 
 Equivalence  relations  and  Partitions,  Partial  ordering  relations  and  lattices,  chains  and  antichains.  Functions  and  the 
 Pigeonhole Principle. 
@@ -676,8 +676,7 @@ Books Recommended:
 ////
 
 
-                                                                      A.MTH  3101 : Real Analysis 
-
+A.MTH  3101 : Real Analysis
 (4 Hours,100 Marks,3 Credits) 
 
 1. Real number system: Rational number, field, ordered set, ordered field, least upper    bound and greatest lower bound, 
@@ -800,10 +799,8 @@ Books Recommended:
 
 ////
 
-
-                                                              A.MTH  3109 : Differential Geometry 
-
-                                          (4 Hours, 100 Marks, 3 Credits) 
+A.MTH  3109 : Differential Geometry
+(4 Hours, 100 Marks, 3 Credits)
 
 1. Introductory Concepts of Differential Geometry Vector Algebra and Calculus of Vectors; Functions of Class Cm;   
 Regular and Implicit Representation of Curves in R3; Tangent Plane, Normal Plane and Osculating Plane;  
@@ -855,8 +852,7 @@ Books Recommended:
 
 
 
-                                                             A.MTH 3201 :Optimization Techniques - II 
-
+A.MTH 3201 :Optimization Techniques - II
 (4 Hours, 100 Marks, 3 Credits) 
 
 1. Convex and Concave Functions: 
@@ -963,8 +959,7 @@ Books Recommended:
 
 ////
 
-                                                       A.MTH  3207 : Mechanics(Statics and Dynamics) 
-
+A.MTH  3207 : Mechanics(Statics and Dynamics)
 (4 Hours, 100 Marks, 3 Credits) 
 
 Statics 
@@ -996,8 +991,8 @@ Books Recommended:
 ////
 
 
-                                                                 A.MTH  3209 : Integral Equations 
-                                                     (4Hours, 100 Marks, 3 Credits) 
+A.MTH  3209 : Integral Equations
+(4Hours, 100 Marks, 3 Credits)
 
 1. Introduction, Types of IEs, Differentiation under an integral sign, Relation between differential and integral       
 equations.  
